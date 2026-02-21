@@ -270,3 +270,7 @@ MSG_IP6_PREFIX
 D³ugo¶æ prefiksu IPv6
 ; IPv6 Prefix Length
 ;
+MSG_IP6_MODE
+Tryb IPv6
+; IPv6 Mode
+;

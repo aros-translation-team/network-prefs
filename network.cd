@@ -199,3 +199,6 @@ IPv6 Address
 MSG_IP6_PREFIX (//)
 IPv6 Prefix Length
 ;
+MSG_IP6_MODE (//)
+IPv6 Mode
+;

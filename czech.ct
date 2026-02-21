@@ -265,3 +265,7 @@ MSG_IP6_PREFIX
 Délka prefixu IPv6
 ; IPv6 Prefix Length
 ;
+MSG_IP6_MODE
+Re¾im IPv6
+; IPv6 Mode
+;

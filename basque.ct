@@ -259,3 +259,7 @@ MSG_IP6_PREFIX
 IPv6 Aurrizki Luzera
 ; IPv6 Prefix Length
 ;
+MSG_IP6_MODE
+IPv6 Modua
+; IPv6 Mode
+;

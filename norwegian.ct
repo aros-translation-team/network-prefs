@@ -262,3 +262,7 @@ MSG_IP6_PREFIX
 IPv6-prefikslengde
 ; IPv6 Prefix Length
 ;
+MSG_IP6_MODE
+IPv6-modus
+; IPv6 Mode
+;

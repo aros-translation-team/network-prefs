@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (19.03.2023)
+## version $VER: networkprefs.catalog 4.2 (21.02.2026)
 ## language español
 ## codeset 0
 ;
@@ -253,4 +253,12 @@ Tipo de servicio
 MSG_SERVICETYPE_CIFS
 CIFS/SMB
 ; CIFS/SMB
+;
+MSG_IP6
+Dirección IPv6
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+Longitud del prefijo IPv6
+; IPv6 Prefix Length
 ;

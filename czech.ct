@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.0 (15.09.2016)
+## version $VER: network.catalog 4.1 (21.02.2026)
 ## language czech
 ## codeset 5
 ;
@@ -256,4 +256,12 @@ MSG_SERVICETYPE_CIFS
 CIFS/SMB
 ; CIFS/SMB
 ;
+;
+MSG_IP6
+Adresa IPv6
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+Délka prefixu IPv6
+; IPv6 Prefix Length
 ;

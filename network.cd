@@ -193,3 +193,9 @@ MSG_TETHERING_WARNING (//)
 MSG_TAB_TETHERING (//)
 Tethering
 ;
+MSG_IP6 (//)
+IPv6 Address
+;
+MSG_IP6_PREFIX (//)
+IPv6 Prefix Length
+;

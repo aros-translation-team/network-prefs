@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.0 (09.08.2024)
+## version $VER: networkprefs.catalog 4.1 (21.02.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -250,4 +250,12 @@ Serbitzu mota
 MSG_SERVICETYPE_CIFS
 CIFS/SMB
 ; CIFS/SMB
+;
+MSG_IP6
+IPv6 Helbidea
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+IPv6 Aurrizki Luzera
+; IPv6 Prefix Length
 ;

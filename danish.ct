@@ -1,4 +1,4 @@
-## version $VER: network.catalog 2.0 (22.07.2010)
+## version $VER: network.catalog 2.1 (21.02.2026)
 ## language dansk
 ## codeset 0
 ;
@@ -135,4 +135,12 @@ Indstillingerne blev gemt i %s.\nGenstart AROS for at bruge de nye indstillinger
 MSG_IFWINDOW_TITLE
 Grænseflade
 ; Interface
+;
+MSG_IP6
+IPv6-adresse
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+IPv6-præfikslængde
+; IPv6 Prefix Length
 ;

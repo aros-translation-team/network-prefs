@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.1 (08.03.2019)
+## version $VER: network.catalog 4.2 (21.02.2026)
 ## language polski
 ## codeset 5
 ;
@@ -261,4 +261,12 @@ MSG_TETHERING_WARNING
 MSG_TAB_TETHERING
 Tethering
 ;Tethering
+;
+MSG_IP6
+Adres IPv6
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+D³ugo¶æ prefiksu IPv6
+; IPv6 Prefix Length
 ;

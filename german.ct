@@ -193,6 +193,9 @@ Anwenden
 MSG_BUTTON_CLOSE
 Schlieﬂen
 ; Close
+MSG_BUTTON_CANCEL
+Abbrechen
+; Cancel
 ;
 MSG_ERROR_TITLE
 Fehler
@@ -273,4 +276,8 @@ IPv6-Pr‰fixl‰nge
 MSG_IP6_MODE
 IPv6-Modus
 ; IPv6 Mode
+;
+MSG_GATE6
+IPv6-Gateway
+; IPv6 Gateway
 ;

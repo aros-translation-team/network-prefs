@@ -193,6 +193,9 @@ Aktiver
 MSG_BUTTON_CLOSE
 Lukk
 ; Close
+MSG_BUTTON_CANCEL
+Avbryt
+; Cancel
 ;
 MSG_ERROR_TITLE
 Feil
@@ -273,4 +276,8 @@ IPv6-prefikslengde
 MSG_IP6_MODE
 IPv6-modus
 ; IPv6 Mode
+;
+MSG_GATE6
+IPv6-gateway
+; IPv6 Gateway
 ;

@@ -270,3 +270,11 @@ MSG_IP6_MODE
 Режим IPv6
 ; IPv6 Mode
 ;
+MSG_GATE6
+Шлюз IPv6
+; IPv6 Gateway
+;
+MSG_BUTTON_CANCEL
+Отмена
+; Cancel
+;

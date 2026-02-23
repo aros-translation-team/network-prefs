@@ -193,6 +193,9 @@ Pou¾ít
 MSG_BUTTON_CLOSE
 Zavøít
 ; Close
+MSG_BUTTON_CANCEL
+Storno
+; Cancel
 ;
 MSG_ERROR_TITLE
 Chyba
@@ -276,4 +279,8 @@ Délka prefixu IPv6
 MSG_IP6_MODE
 Re¾im IPv6
 ; IPv6 Mode
+;
+MSG_GATE6
+IPv6 Brána
+; IPv6 Gateway
 ;

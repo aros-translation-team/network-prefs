@@ -119,6 +119,9 @@ Anvend
 MSG_BUTTON_CLOSE
 Luk
 ; Close
+MSG_BUTTON_CANCEL
+Annuller
+; Cancel
 ;
 MSG_ERROR_TITLE
 Fejl
@@ -155,4 +158,8 @@ IPv6-præfikslængde
 MSG_IP6_MODE
 IPv6-tilstand
 ; IPv6 Mode
+;
+MSG_GATE6
+IPv6 Gateway
+; IPv6 Gateway
 ;

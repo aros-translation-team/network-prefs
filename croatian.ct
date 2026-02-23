@@ -118,3 +118,8 @@ MSG_IP6_MODE
 IPv6 mod
 ; IPv6 Mode
 ;
+
+MSG_GATE6
+IPv6 Pristupnik
+; IPv6 Gateway
+;

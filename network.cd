@@ -142,6 +142,9 @@ Apply
 MSG_BUTTON_CLOSE (//)
 Close
 ;
+MSG_BUTTON_CANCEL (//)
+Cancel
+;
 MSG_ERROR_TITLE (//)
 Error
 ;
@@ -207,4 +210,7 @@ IPv6 Prefix Length
 ;
 MSG_IP6_MODE (//)
 IPv6 Mode
+;
+MSG_GATE6 (//)
+IPv6 Gateway
 ;

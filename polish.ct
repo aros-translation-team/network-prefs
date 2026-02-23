@@ -193,6 +193,9 @@ Zastosuj
 MSG_BUTTON_CLOSE
 Zamknij
 ; Close
+MSG_BUTTON_CANCEL
+Anuluj
+; Cancel
 ;
 MSG_ERROR_TITLE
 B³±d
@@ -281,4 +284,8 @@ D³ugo¶æ prefiksu IPv6
 MSG_IP6_MODE
 Tryb IPv6
 ; IPv6 Mode
+;
+MSG_GATE6
+Brama IPv6
+; IPv6 Gateway
 ;

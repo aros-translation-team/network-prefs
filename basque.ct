@@ -190,6 +190,9 @@ Indarrean jarri
 MSG_BUTTON_CLOSE
 Itxi
 ; Close
+MSG_BUTTON_CANCEL
+Utzi
+; Cancel
 ;
 MSG_ERROR_TITLE
 Akatsa
@@ -270,4 +273,8 @@ IPv6 Aurrizki Luzera
 MSG_IP6_MODE
 IPv6 Modua
 ; IPv6 Mode
+;
+MSG_GATE6
+IPv6 Atebidea
+; IPv6 Gateway
 ;

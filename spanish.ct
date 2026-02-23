@@ -193,6 +193,9 @@ Aplicar
 MSG_BUTTON_CLOSE
 Cerrar
 ; Close
+MSG_BUTTON_CANCEL
+Cancelar
+; Cancel
 ;
 MSG_ERROR_TITLE
 Error
@@ -273,4 +276,8 @@ Longitud del prefijo IPv6
 MSG_IP6_MODE
 Modo IPv6
 ; IPv6 Mode
+;
+MSG_GATE6
+Puerta de enlace IPv6
+; IPv6 Gateway
 ;

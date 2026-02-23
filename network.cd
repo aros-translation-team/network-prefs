@@ -53,7 +53,13 @@ MSG_IP_MODE_MANUAL (//)
 Manual
 ;
 MSG_IP_MODE_DHCP (//)
+DHCP
+;
+MSG_IP_MODE_AUTO (//)
 Automatic
+;
+MSG_IP6_MODE_AUTO (//)
+Link-Local Only
 ;
 MSG_ENC_NONE (//)
 None

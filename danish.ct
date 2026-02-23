@@ -68,6 +68,14 @@ MSG_IP_MODE_DHCP
 Hent adresse fra DHCP
 ; Get address from DHCP
 ;
+MSG_IP_MODE_AUTO
+Automatisk
+; Automatic (zeroconf)
+;
+MSG_IP6_MODE_AUTO
+Kun link-lokal
+; Link-Local Only
+;
 MSG_TAB_IP_CONFIGURATION
 TCP/IP-opsætning
 ; TCP/IP Configuration

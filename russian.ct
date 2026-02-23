@@ -78,6 +78,14 @@ MSG_IP_MODE_DHCP
 автоматически
 ; Automatic
 ;
+MSG_IP_MODE_AUTO
+Автоматически
+; Automatic (zeroconf)
+;
+MSG_IP6_MODE_AUTO
+Только link-local
+; Link-Local Only
+;
 MSG_ENC_NONE
 Нет
 ; None

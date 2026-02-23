@@ -7,7 +7,7 @@ Ustawienia sieciowe
 ; Network Preferences
 ;
 MSG_DESCRIPTION
-Ustawienia protoko³u TCP/IP
+Ustawienia protokoï¿½u TCP/IP
 ; Network preferences
 ;
 MSG_IFNAME
@@ -19,7 +19,7 @@ Aktywne
 ; Active
 ;
 MSG_DEVICE
-Urz±dzenie
+Urzï¿½dzenie
 ; Device
 ;
 MSG_UNIT
@@ -43,7 +43,7 @@ Brama
 ; Gateway
 ;
 MSG_DNS1
-G³ówny DNS
+Gï¿½ï¿½wny DNS
 ; Primary DNS
 ;
 MSG_DNS2
@@ -51,11 +51,11 @@ Pomocniczy DNS
 ; Secondary DNS
 ;
 MSG_HOST_NAME
-Nazwa wêz³a
+Nazwa wï¿½zï¿½a
 ; Host Name
 ;
 MSG_HOST_NAMES
-Nazwy wêz³ów
+Nazwy wï¿½zï¿½ï¿½w
 ; Host Name and Aliases
 ;
 MSG_DOMAIN_NAME
@@ -63,7 +63,7 @@ Domena
 ; Domain Name
 ;
 MSG_SERIAL_DEVICE
-Urz±dzenie
+Urzï¿½dzenie
 ; Serial Device
 ;
 MSG_UNIT_NUMBER
@@ -71,7 +71,7 @@ Jednostka
 ; Unit
 ;
 MSG_IP_MODE_MANUAL
-Rêczne
+Rï¿½czne
 ; Manual
 ;
 MSG_IP_MODE_DHCP
@@ -99,7 +99,7 @@ WPA
 ; WPA
 ;
 MSG_KEY_TEXT
-Has³o
+Hasï¿½o
 ; Passphrase
 ;
 MSG_KEY_HEX
@@ -139,7 +139,7 @@ Nazwa komputera
 ; Computer Name
 ;
 MSG_TAB_WIRELESS
-Sieæ bezprzewodowa
+Sieï¿½ bezprzewodowa
 ; Wireless
 ;
 MSG_TAB_MOBILE
@@ -147,32 +147,35 @@ GSM
 ; Mobile Broadband
 ;
 MSG_TAB_SERVERS
-Za³o¿one udzia³y
+Zaï¿½oï¿½one udziaï¿½y
 ; Mounted Shares
 ;
 MSG_AUTOSTART_STACK
-W³±czaj sieæ podczas wczytywania systemu
+Wï¿½ï¿½czaj sieï¿½ podczas wczytywania systemu
 ; Start networking during system boot
 ;
 MSG_ERR_UNKNOWN_ERROR
-Nieznany b³±d
+Nieznany bï¿½ï¿½d
 ; Unknown error
 ;
 MSG_ERR_NOT_RESTARTED_STACK
-Uruchomienie sieci nie powiod³o siê
+Uruchomienie sieci nie powiodï¿½o siï¿½
 ; Failed to restart network stack
 ;
 MSG_ERR_NOT_RESTARTED_WIRELESS
-Uruchomienie sieci bezprzewodowej nie powiod³o siê
+Uruchomienie sieci bezprzewodowej nie powiodï¿½o siï¿½
 ; Failed to restart wireless networking
 ;
 MSG_ERR_NOT_RESTARTED_MOBILE
-Uruchomienie modemu nie powiod³o siê
+Uruchomienie modemu nie powiodï¿½o siï¿½
 ; Failed to restart ModemManager
 ;
 MSG_BUTTON_OK
 OK
 ; Ok
+MSG_BUTTON_USE
+_U¿yj
+; Use
 ;
 MSG_BUTTON_ADD
 Dodaj
@@ -183,7 +186,7 @@ Edytuj
 ; Edit
 ;
 MSG_BUTTON_REMOVE
-Usuñ
+Usuï¿½
 ; Remove
 ;
 MSG_BUTTON_APPLY
@@ -194,27 +197,27 @@ MSG_BUTTON_CLOSE
 Zamknij
 ; Close
 MSG_BUTTON_CANCEL
-Anuluj
+_Anuluj
 ; Cancel
 ;
 MSG_ERROR_TITLE
-B³±d
+Bï¿½ï¿½d
 ; Error
 ;
 MSG_WARNING_TITLE
-Ostrze¿enie
+Ostrzeï¿½enie
 ; Warning
 ;
 MSG_ERR_NOT_SAVED_PREFS
-Zapisywanie ustawieñ w %s zakoñczone niepowodzeniem
+Zapisywanie ustawieï¿½ w %s zakoï¿½czone niepowodzeniem
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
-Kopiowanie dodatkowych plików do %s zakoñczone niepowodzeniem
+Kopiowanie dodatkowych plikï¿½w do %s zakoï¿½czone niepowodzeniem
 ; Additional files not copied to %s
 ;
 MSG_WARN_MULTIPLE_IFACES
-DHCP nie dzia³a niezawodnie, je¿eli zdefiniowano kilka interfejsów
+DHCP nie dziaï¿½a niezawodnie, jeï¿½eli zdefiniowano kilka interfejsï¿½w
 ; DHCP does not work reliably when multiple interfaces are configured
 ;
 MSG_INFO_TITLE
@@ -222,7 +225,7 @@ Informacja
 ; Information
 ;
 MSG_PREFS_SAVED_RESTART
-Ustawienia zapisano w %s.\nAby ich u¿yæ uruchom ponownie system.
+Ustawienia zapisano w %s.\nAby ich uï¿½yï¿½ uruchom ponownie system.
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE
@@ -230,31 +233,31 @@ Interfejs
 ; Interface
 ;
 MSG_HOSTWINDOW_TITLE
-Nazwy hostów
+Nazwy hostï¿½w
 ; Host Name(s)
 ;
 MSG_NETWINDOW_TITLE
-Sieæ bezprzewodowa
+Sieï¿½ bezprzewodowa
 ; Wireless Network
 ;
 MSG_SERVERWINDOW_TITLE
-Za³ó¿ udzia³
+Zaï¿½ï¿½ udziaï¿½
 ; Mount Share
 ;
 MSG_USERNAME
-U¿ytkownik
+Uï¿½ytkownik
 ; Username
 ;
 MSG_PASSWORD
-Has³o
+Hasï¿½o
 ; Password
 ;
 MSG_WORKGROUP
-Domena/Zespó³
+Domena/Zespï¿½
 ; Domain/Workgroup
 ;
 MSG_SERVICE
-Nazwa udzia³u
+Nazwa udziaï¿½u
 ; Share Name
 ;
 MSG_SERVICE_TYPES
@@ -266,7 +269,7 @@ CIFS/SMB
 ; CIFS/SMB
 ;
 MSG_TETHERING_WARNING
-\33lJe¶li po restarcie tethering nie dzia³a, sprawd¼ ¿e jest on w³±czony na telefonie\n a nastêpnie otwórz Ustawienia sieciowe i kliknik U¿yj
+\33lJeï¿½li po restarcie tethering nie dziaï¿½a, sprawdï¿½ ï¿½e jest on wï¿½ï¿½czony na telefonie\n a nastï¿½pnie otwï¿½rz Ustawienia sieciowe i kliknik Uï¿½yj
 ;\33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
 ;
 MSG_TAB_TETHERING
@@ -278,7 +281,7 @@ Adres IPv6
 ; IPv6 Address
 ;
 MSG_IP6_PREFIX
-D³ugo¶æ prefiksu IPv6
+Dï¿½ugoï¿½ï¿½ prefiksu IPv6
 ; IPv6 Prefix Length
 ;
 MSG_IP6_MODE

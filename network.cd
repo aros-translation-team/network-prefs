@@ -127,6 +127,9 @@ Failed to restart ModemManager
 MSG_BUTTON_OK (//)
 Ok
 ;
+MSG_BUTTON_USE (//)
+_Use
+;
 MSG_BUTTON_ADD (//)
 Add
 ;
@@ -143,7 +146,7 @@ MSG_BUTTON_CLOSE (//)
 Close
 ;
 MSG_BUTTON_CANCEL (//)
-Cancel
+_Cancel
 ;
 MSG_ERROR_TITLE (//)
 Error
@@ -213,4 +216,16 @@ IPv6 Mode
 ;
 MSG_GATE6 (//)
 IPv6 Gateway
+;
+MSG_ADDR_MODE (//)
+Addressing Mode
+;
+MSG_PREFIX_LEN (//)
+Prefix Length
+;
+MSG_CFG_ADDR (//)
+Configure Address
+;
+MSG_PROTO_LABEL (//)
+Address Protocol
 ;

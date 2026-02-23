@@ -170,6 +170,9 @@ ModemManager berrabiaraztean errore bat sortu da
 MSG_BUTTON_OK
 Ados
 ; Ok
+MSG_BUTTON_USE
+_Erabili
+; Use
 ;
 MSG_BUTTON_ADD
 Gehitu
@@ -191,7 +194,7 @@ MSG_BUTTON_CLOSE
 Itxi
 ; Close
 MSG_BUTTON_CANCEL
-Utzi
+_Deuseztu
 ; Cancel
 ;
 MSG_ERROR_TITLE

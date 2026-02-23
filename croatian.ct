@@ -3,15 +3,15 @@
 ## codeset 5
 ;
 MSG_NAME
-Mre¾ne Postavke
+Mreï¿½ne Postavke
 ; Network Preferences
 ;
 MSG_DESCRIPTION
-TCP/IP Mre¾ne postavke
+TCP/IP Mreï¿½ne postavke
 ; TCP/IP Network preferences
 ;
 MSG_DEVICE
-Ureðaj
+Ureï¿½aj
 ; Device
 ;
 MSG_IP_MODE
@@ -39,7 +39,7 @@ Sekundarni DNS
 ; Secondary DNS
 ;
 MSG_HOST_NAME
-Ime Domaæina
+Ime Domaï¿½ina
 ; Host Name
 ;
 MSG_DOMAIN_NAME
@@ -67,7 +67,7 @@ TCP/IP Konfiguracija
 ; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAME
-Ime Raèunala
+Ime Raï¿½unala
 ; Computer Name
 ;
 MSG_AUTOSTART_STACK
@@ -75,23 +75,26 @@ Autostart
 ; Autostart
 ;
 MSG_ERR_UNKNOWN_ERROR
-Nepoznata gre¹ka
+Nepoznata greï¿½ka
 ; Unknown error
 ;
 MSG_ERR_NOT_RESTARTED_STACK
-Neuspje¹an restart network stack
+Neuspjeï¿½an restart network stack
 ; Failed to restart network stack
 ;
 MSG_BUTTON_OK
 U redu
 ; Ok
+MSG_BUTTON_USE
+_Upotrijebi
+; Use
 ;
 MSG_ERROR_TITLE
-gre¹ka
+greï¿½ka
 ; Error
 ;
 MSG_ERR_NOT_SAVED_PREFS
-Mre¾ne postavke nisu spremljene u %s
+Mreï¿½ne postavke nisu spremljene u %s
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
@@ -118,7 +121,6 @@ MSG_IP6_MODE
 IPv6 mod
 ; IPv6 Mode
 ;
-
 MSG_GATE6
 IPv6 Pristupnik
 ; IPv6 Gateway

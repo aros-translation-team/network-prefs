@@ -1,14 +1,14 @@
 ## version $VER: networkprefs.catalog 4.3 (21.02.2026)
-## language français
+## language franï¿½ais
 ## codeset 0
 ;
 ;
 MSG_NAME
-Préférences Réseau
+Prï¿½fï¿½rences Rï¿½seau
 ; Network Preferences
 ;
 MSG_DESCRIPTION
-Préférences du réseau TCP/IP
+Prï¿½fï¿½rences du rï¿½seau TCP/IP
 ; TCP/IP Network preferences
 ;
 MSG_IFNAME
@@ -18,11 +18,11 @@ MSG_UP
 Actif
 ;
 MSG_DEVICE
-Périphérique
+Pï¿½riphï¿½rique
 ; Device
 ;
 MSG_UNIT
-Unité
+Unitï¿½
 ;
 MSG_IP_MODE
 Mode IP
@@ -49,11 +49,11 @@ DNS secondaire
 ; Secondary DNS
 ;
 MSG_HOST_NAME
-Nom d'hôte
+Nom d'hï¿½te
 ; Host Name
 ;
 MSG_HOST_NAMES
-Noms des hôtes
+Noms des hï¿½tes
 ; Host Names
 ;
 MSG_DOMAIN_NAME
@@ -61,10 +61,10 @@ Nom de domaine
 ; Domain Name
 ;
 MSG_SERIAL_DEVICE
-Périphérique
+Pï¿½riphï¿½rique
 ;
 MSG_UNIT_NUMBER
-Unité
+Unitï¿½
 ;
 MSG_IP_MODE_MANUAL
 Adresse saisie manuellement
@@ -92,25 +92,25 @@ MSG_ENC_WPA
 WPA
 ;
 MSG_KEY_TEXT
-Alphanumérique
+Alphanumï¿½rique
 ;
 MSG_KEY_HEX
-Hexadécimale
+Hexadï¿½cimale
 ;
 MSG_SSID
-Réseau
+Rï¿½seau
 ;
 MSG_ENCTYPE
-Protocole de sécurité
+Protocole de sï¿½curitï¿½
 ;
 MSG_KEYTYPE
-Type de clé
+Type de clï¿½
 ;
 MSG_KEY
-Clé
+Clï¿½
 ;
 MSG_HIDDEN
-Caché
+Cachï¿½
 ;
 MSG_ADHOC
 Ad-hoc
@@ -124,7 +124,7 @@ Noms des ordinateurs
 ; Computer Names
 ;
 MSG_TAB_WIRELESS
-Réseaux sans fil
+Rï¿½seaux sans fil
 ;
 MSG_TAB_MOBILE
 Mobile
@@ -133,7 +133,7 @@ MSG_TAB_SERVERS
 Serveurs de fichiers
 ;
 MSG_AUTOSTART_STACK
-Démarrage automatique
+Dï¿½marrage automatique
 ; Autostart
 ;
 MSG_ERR_UNKNOWN_ERROR
@@ -141,20 +141,23 @@ Erreur inconnue
 ; Unknown error
 ;
 MSG_ERR_NOT_RESTARTED_STACK
-La pile réseau n'a pu redémarrer.
+La pile rï¿½seau n'a pu redï¿½marrer.
 ; Failed to restart network stack
 ;
 MSG_ERR_NOT_RESTARTED_WIRELESS
-Échec du redémarrage du réseau sans fil
+ï¿½chec du redï¿½marrage du rï¿½seau sans fil
 ;Failed to restart wireless networking
 ;
 MSG_ERR_NOT_RESTARTED_MOBILE
-Échec du redémarrage de ModemManager
+ï¿½chec du redï¿½marrage de ModemManager
 ;Failed to restart ModemManager
 ;
 MSG_BUTTON_OK
 Ok
 ; Ok
+MSG_BUTTON_USE
+_Utiliser
+; Use
 ;
 MSG_BUTTON_ADD
 Ajouter
@@ -172,7 +175,7 @@ MSG_BUTTON_CLOSE
 Fermer
 ;
 MSG_BUTTON_CANCEL
-Annuler
+A_nnuler
 ; Cancel
 ;
 MSG_ERROR_TITLE
@@ -184,15 +187,15 @@ Attention !
 ;Warning
 ;
 MSG_ERR_NOT_SAVED_PREFS
-Les préférences réseau n'ont pas été sauvegardées sur %s.
+Les prï¿½fï¿½rences rï¿½seau n'ont pas ï¿½tï¿½ sauvegardï¿½es sur %s.
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
-Les fichiers additionnels n'ont pas été copiés vers %s.
+Les fichiers additionnels n'ont pas ï¿½tï¿½ copiï¿½s vers %s.
 ; Additional files not copied to %s
 ;
 MSG_WARN_MULTIPLE_IFACES
-Le protocole DHCP n'est pas fiable quand plusieurs interfaces sont configurées
+Le protocole DHCP n'est pas fiable quand plusieurs interfaces sont configurï¿½es
 ;DHCP does not work reliably when multiple interfaces are configured
 ;
 MSG_INFO_TITLE
@@ -200,17 +203,17 @@ Information
 ; Information
 ;
 MSG_PREFS_SAVED_RESTART
-Les préférences ont été sauvegardées vers %s. \nRedémarrer AROS pour que les modifications prennent effet.
+Les prï¿½fï¿½rences ont ï¿½tï¿½ sauvegardï¿½es vers %s. \nRedï¿½marrer AROS pour que les modifications prennent effet.
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE
 Interface
 ;
 MSG_HOSTWINDOW_TITLE
-Hôte
+Hï¿½te
 ;
 MSG_NETWINDOW_TITLE
-Réseau sans fil
+Rï¿½seau sans fil
 ;Wireless Network
 ;
 MSG_SERVERWINDOW_TITLE
@@ -245,7 +248,7 @@ Adresse IPv6
 ; IPv6 Address
 ;
 MSG_IP6_PREFIX
-Longueur du préfixe IPv6
+Longueur du prï¿½fixe IPv6
 ; IPv6 Prefix Length
 ;
 MSG_IP6_MODE

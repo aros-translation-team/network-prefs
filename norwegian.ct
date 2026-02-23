@@ -43,11 +43,11 @@ Gateway
 ; Gateway
 ;
 MSG_DNS1
-Primærer DNS
+Primï¿½rer DNS
 ; Primary DNS
 ;
 MSG_DNS2
-Sekundærer DNS
+Sekundï¿½rer DNS
 ; Secondary DNS
 ;
 MSG_HOST_NAME
@@ -115,11 +115,11 @@ Kryptering
 ; Encryption
 ;
 MSG_KEYTYPE
-Nøkkeltype
+Nï¿½kkeltype
 ; Key Type
 ;
 MSG_KEY
-Nøkkel
+Nï¿½kkel
 ; Key
 ;
 MSG_HIDDEN
@@ -139,11 +139,11 @@ Datamaskinnavn
 ; Local Host Entries
 ;
 MSG_TAB_WIRELESS
-Trådløst nettverk
+Trï¿½dlï¿½st nettverk
 ; Wireless Networks
 ;
 MSG_TAB_MOBILE
-Mobilt bredbånd
+Mobilt bredbï¿½nd
 ; Mobile Broadband
 ;
 MSG_TAB_SERVERS
@@ -163,7 +163,7 @@ Klarte ikke re-starte nettverksstacken
 ; Failed to restart network stack
 ;
 MSG_ERR_NOT_RESTARTED_WIRELESS
-Klarte ikke re-starte det trådløse nettverket
+Klarte ikke re-starte det trï¿½dlï¿½se nettverket
 ; Failed to restart wireless networking
 ;
 MSG_ERR_NOT_RESTARTED_MOBILE
@@ -173,6 +173,9 @@ Klarte ikke re-starte ModemManager
 MSG_BUTTON_OK
 OK
 ; Ok
+MSG_BUTTON_USE
+_Bruk
+; Use
 ;
 MSG_BUTTON_ADD
 Legg til
@@ -194,7 +197,7 @@ MSG_BUTTON_CLOSE
 Lukk
 ; Close
 MSG_BUTTON_CANCEL
-Avbryt
+_Avbryt
 ; Cancel
 ;
 MSG_ERROR_TITLE
@@ -214,7 +217,7 @@ Flere filer ble ikke kopiert til %s
 ; Additional files not copied to %s
 ;
 MSG_WARN_MULTIPLE_IFACES
-DHCP er ikke pålitelig når flere grensesnitt er konfigurert samtidig
+DHCP er ikke pï¿½litelig nï¿½r flere grensesnitt er konfigurert samtidig
 ; DHCP does not work reliably when multiple interfaces are configured
 ;
 MSG_INFO_TITLE
@@ -222,7 +225,7 @@ Informasjon
 ; Information
 ;
 MSG_PREFS_SAVED_RESTART
-Innstillingene har blitt lagret til %s.\nStart AROS på nytt for å aktivere dem.
+Innstillingene har blitt lagret til %s.\nStart AROS pï¿½ nytt for ï¿½ aktivere dem.
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE
@@ -234,7 +237,7 @@ Tjenernavn(n)
 ; Host Name(s)
 ;
 MSG_NETWINDOW_TITLE
-Trådløst nettverk
+Trï¿½dlï¿½st nettverk
 ; Wireless Network
 ;
 MSG_SERVERWINDOW_TITLE

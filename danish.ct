@@ -5,11 +5,11 @@
 ; Initial Danish translation by Kristian Poul Herkild
 ;
 MSG_NAME
-Netværksindstillinger
+Netvï¿½rksindstillinger
 ; Network Preferences
 ;
 MSG_DESCRIPTION
-TCP/IP-netværksindstillinger
+TCP/IP-netvï¿½rksindstillinger
 ; TCP/IP Network preferences
 ;
 MSG_IFNAME
@@ -45,19 +45,19 @@ Adgangspunkt
 ; Gateway
 ;
 MSG_DNS1
-Primær DNS
+Primï¿½r DNS
 ; Primary DNS
 ;
 MSG_DNS2
-Sekundær DNS
+Sekundï¿½r DNS
 ; Secondary DNS
 ;
 MSG_HOST_NAME
-Værtsnavn
+Vï¿½rtsnavn
 ; Host Name
 ;
 MSG_DOMAIN_NAME
-Domænenavn
+Domï¿½nenavn
 ; Domain Name
 ;
 MSG_IP_MODE_MANUAL
@@ -77,7 +77,7 @@ Kun link-lokal
 ; Link-Local Only
 ;
 MSG_TAB_IP_CONFIGURATION
-TCP/IP-opsætning
+TCP/IP-opsï¿½tning
 ; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAME
@@ -85,7 +85,7 @@ Computernavn
 ; Computer Name
 ;
 MSG_AUTOSTART_STACK
-Start netværk automatisk under systemopstart?
+Start netvï¿½rk automatisk under systemopstart?
 ; Automatically start network during system boot?
 ;
 MSG_ERR_UNKNOWN_ERROR
@@ -93,19 +93,22 @@ Ukendt fejl
 ; Unknown error
 ;
 MSG_ERR_NOT_RESTARTED_STACK
-Genstart af netværksstak mislykkedes
+Genstart af netvï¿½rksstak mislykkedes
 ; Failed to restart network stack
 ;
 MSG_BUTTON_OK
 O.k.
 ; Ok
+MSG_BUTTON_USE
+_Brug
+; Use
 ;
 MSG_BUTTON_ADD
-Tilføj
+Tilfï¿½j
 ; Add
 ;
 MSG_BUTTON_EDIT
-Redigér
+Redigï¿½r
 ; Edit
 ;
 MSG_BUTTON_REMOVE
@@ -120,7 +123,7 @@ MSG_BUTTON_CLOSE
 Luk
 ; Close
 MSG_BUTTON_CANCEL
-Annuller
+_Annuller
 ; Cancel
 ;
 MSG_ERROR_TITLE
@@ -128,7 +131,7 @@ Fejl
 ; Error
 ;
 MSG_ERR_NOT_SAVED_PREFS
-Netværksindstillinger blev ikke gemt i %s
+Netvï¿½rksindstillinger blev ikke gemt i %s
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
@@ -144,7 +147,7 @@ Indstillingerne blev gemt i %s.\nGenstart AROS for at bruge de nye indstillinger
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE
-Grænseflade
+Grï¿½nseflade
 ; Interface
 ;
 MSG_IP6
@@ -152,7 +155,7 @@ IPv6-adresse
 ; IPv6 Address
 ;
 MSG_IP6_PREFIX
-IPv6-præfikslængde
+IPv6-prï¿½fikslï¿½ngde
 ; IPv6 Prefix Length
 ;
 MSG_IP6_MODE

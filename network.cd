@@ -89,7 +89,7 @@ MSG_ADHOC (//)
 Ad-hoc
 ;
 MSG_TAB_IP_CONFIGURATION (//)
-IPv4 Configuration
+TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAMES (//)
 Local Host Entries

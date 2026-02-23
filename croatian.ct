@@ -55,8 +55,8 @@ Pribavi adresu od DHCP
 ; Get address from DHCP
 ;
 MSG_TAB_IP_CONFIGURATION
-IP Konfiguracija
-; IP Configuration
+TCP/IP Konfiguracija
+; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAME
 Ime Raèunala

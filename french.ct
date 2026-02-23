@@ -108,8 +108,8 @@ MSG_ADHOC
 Ad-hoc
 ;
 MSG_TAB_IP_CONFIGURATION
-Configuration IPv4
-; IP Configuration
+Configuration TCP/IP
+; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAMES
 Noms des ordinateurs

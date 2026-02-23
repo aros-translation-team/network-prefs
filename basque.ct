@@ -123,8 +123,8 @@ Ad-hoc
 ; Ad-hoc
 ;
 MSG_TAB_IP_CONFIGURATION
-IPv4 konfigurazioa
-; IPv4 Configuration
+TCP/IP konfigurazioa
+; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAMES
 Bertako Hosten izenak

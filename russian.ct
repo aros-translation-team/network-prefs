@@ -119,8 +119,8 @@ MSG_ADHOC
 ; Ad-hoc
 ;
 MSG_TAB_IP_CONFIGURATION
-Настройка IPv4
-; IPv4 Configuration
+Настройка TCP/IP
+; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAMES
 Локальные записи узла

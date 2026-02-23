@@ -123,8 +123,8 @@ Ad hoc
 ; Ad-hoc
 ;
 MSG_TAB_IP_CONFIGURATION
-Configurazione IPv4
-; IPv4 Configuration
+Configurazione TCP/IP
+; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAMES
 Nomi computer locali

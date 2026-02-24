@@ -5,11 +5,11 @@
 ; Initial Danish translation by Kristian Poul Herkild
 ;
 MSG_NAME
-Netvï¿½rksindstillinger
+Netværksindstillinger
 ; Network Preferences
 ;
 MSG_DESCRIPTION
-TCP/IP-netvï¿½rksindstillinger
+TCP/IP-netværksindstillinger
 ; TCP/IP Network preferences
 ;
 MSG_IFNAME
@@ -45,19 +45,19 @@ Adgangspunkt
 ; Gateway
 ;
 MSG_DNS1
-Primï¿½r DNS
+Primær DNS
 ; Primary DNS
 ;
 MSG_DNS2
-Sekundï¿½r DNS
+Sekundær DNS
 ; Secondary DNS
 ;
 MSG_HOST_NAME
-Vï¿½rtsnavn
+Værtsnavn
 ; Host Name
 ;
 MSG_DOMAIN_NAME
-Domï¿½nenavn
+Domænenavn
 ; Domain Name
 ;
 MSG_IP_MODE_MANUAL
@@ -77,7 +77,7 @@ Kun link-lokal
 ; Link-Local Only
 ;
 MSG_TAB_IP_CONFIGURATION
-TCP/IP-opsï¿½tning
+TCP/IP-opsætning
 ; TCP/IP Configuration
 ;
 MSG_TAB_COMPUTER_NAME
@@ -85,7 +85,7 @@ Computernavn
 ; Computer Name
 ;
 MSG_AUTOSTART_STACK
-Start netvï¿½rk automatisk under systemopstart?
+Start netværk automatisk under systemopstart?
 ; Automatically start network during system boot?
 ;
 MSG_ERR_UNKNOWN_ERROR
@@ -93,22 +93,23 @@ Ukendt fejl
 ; Unknown error
 ;
 MSG_ERR_NOT_RESTARTED_STACK
-Genstart af netvï¿½rksstak mislykkedes
+Genstart af netværksstak mislykkedes
 ; Failed to restart network stack
 ;
 MSG_BUTTON_OK
 O.k.
 ; Ok
+;
 MSG_BUTTON_USE
 _Brug
 ; Use
 ;
 MSG_BUTTON_ADD
-Tilfï¿½j
+Tilføj
 ; Add
 ;
 MSG_BUTTON_EDIT
-Redigï¿½r
+Redigér
 ; Edit
 ;
 MSG_BUTTON_REMOVE
@@ -131,7 +132,7 @@ Fejl
 ; Error
 ;
 MSG_ERR_NOT_SAVED_PREFS
-Netvï¿½rksindstillinger blev ikke gemt i %s
+Netværksindstillinger blev ikke gemt i %s
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
@@ -147,7 +148,7 @@ Indstillingerne blev gemt i %s.\nGenstart AROS for at bruge de nye indstillinger
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE
-Grï¿½nseflade
+Grænseflade
 ; Interface
 ;
 MSG_IP6
@@ -155,7 +156,7 @@ IPv6-adresse
 ; IPv6 Address
 ;
 MSG_IP6_PREFIX
-IPv6-prï¿½fikslï¿½ngde
+IPv6-præfikslængde
 ; IPv6 Prefix Length
 ;
 MSG_IP6_MODE

@@ -19,7 +19,7 @@ Aktiv
 ; Active
 ;
 MSG_DEVICE
-Gerï¿½t
+Gerät
 ; Device
 ;
 MSG_UNIT
@@ -43,11 +43,11 @@ Gateway
 ; Gateway
 ;
 MSG_DNS1
-Primï¿½rer DNS
+Primärer DNS
 ; Primary DNS
 ;
 MSG_DNS2
-Sekundï¿½rer DNS
+Sekundärer DNS
 ; Secondary DNS
 ;
 MSG_HOST_NAME
@@ -59,11 +59,11 @@ Hostnamen
 ; Host Name and Aliases
 ;
 MSG_DOMAIN_NAME
-Domï¿½nenname
+Domänenname
 ; Domain/Workgroup
 ;
 MSG_SERIAL_DEVICE
-Serielles Gerï¿½t
+Serielles Gerät
 ; Serial Device
 ;
 MSG_UNIT_NUMBER
@@ -111,15 +111,15 @@ Netzwerkname
 ; Network Name
 ;
 MSG_ENCTYPE
-Verschlï¿½sselung
+Verschlüsselung
 ; Encryption
 ;
 MSG_KEYTYPE
-Schlï¿½sseltyp
+Schlüsseltyp
 ; Key Type
 ;
 MSG_KEY
-Schlï¿½ssel
+Schlüssel
 ; Key
 ;
 MSG_HIDDEN
@@ -173,16 +173,17 @@ Neustart des Modemmanagers fehlgeschlagen
 MSG_BUTTON_OK
 OK
 ; Ok
+;
 MSG_BUTTON_USE
 _Benutzen
 ; Use
 ;
 MSG_BUTTON_ADD
-Hinzufï¿½gen
+Hinzufügen
 ; Add
 ;
 MSG_BUTTON_EDIT
-ï¿½ndern
+Ändern
 ; Edit
 ;
 MSG_BUTTON_REMOVE
@@ -194,7 +195,7 @@ Anwenden
 ; Apply
 ;
 MSG_BUTTON_CLOSE
-Schlieï¿½en
+Schließen
 ; Close
 MSG_BUTTON_CANCEL
 _Abbrechen
@@ -213,11 +214,11 @@ Netzwerk-Voreinstellungen konnten\nnicht in %s gespeichert werden
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
-Zusï¿½tzliche Dateien konnten nicht\nnach %s kopiert werden
+Zusätzliche Dateien konnten nicht\nnach %s kopiert werden
 ; Additional files not copied to %s
 ;
 MSG_WARN_MULTIPLE_IFACES
-DHCP arbeitet nicht zuverlï¿½ssig, wenn mehrere Schnittstellen eingestellt wurden
+DHCP arbeitet nicht zuverlässig, wenn mehrere Schnittstellen eingestellt wurden
 ; DHCP does not work reliably when multiple interfaces are configured
 ;
 MSG_INFO_TITLE
@@ -253,7 +254,7 @@ Passwort
 ; Password
 ;
 MSG_WORKGROUP
-Domï¿½ne/Arbeitsgruppe
+Domäne/Arbeitsgruppe
 ; Domain/Workgroup
 ;
 MSG_SERVICE
@@ -273,7 +274,7 @@ IPv6-Adresse
 ; IPv6 Address
 ;
 MSG_IP6_PREFIX
-IPv6-Prï¿½fixlï¿½nge
+IPv6-Präfixlänge
 ; IPv6 Prefix Length
 ;
 MSG_IP6_MODE

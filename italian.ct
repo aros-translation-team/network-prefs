@@ -23,11 +23,11 @@ Device
 ; Device
 ;
 MSG_UNIT
-Unitï¿½
+Unità
 ; Unit
 ;
 MSG_IP_MODE
-Modalitï¿½ IP
+Modalità IP
 ; IP Mode
 ;
 MSG_IP
@@ -67,7 +67,7 @@ Dispositivo seriale
 ; Serial Device
 ;
 MSG_UNIT_NUMBER
-Unitï¿½
+Unità
 ; Unit
 ;
 MSG_IP_MODE_MANUAL
@@ -173,6 +173,7 @@ Improssibile riavviare ModemManager
 MSG_BUTTON_OK
 Ok
 ; Ok
+;
 MSG_BUTTON_USE
 _Usa
 ; Use
@@ -217,7 +218,7 @@ File aggiuntivi non copiati su %s
 ; Additional files not copied to %s
 ;
 MSG_WARN_MULTIPLE_IFACES
-La modalitï¿½ DHCP non funziona correttamente se piï¿½ interfacce sono attive
+La modalità DHCP non funziona correttamente se più interfacce sono attive
 ; DHCP does not work reliably when multiple interfaces are configured
 ;
 MSG_INFO_TITLE
@@ -225,7 +226,7 @@ Informazioni
 ; Information
 ;
 MSG_PREFS_SAVED_RESTART
-Le preferenze sono state salvate su %s.\nRiavviare AROS perchï¿½ abbiano effetto.
+Le preferenze sono state salvate su %s.\nRiavviare AROS perché abbiano effetto.
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE
@@ -277,7 +278,7 @@ Lunghezza prefisso IPv6
 ; IPv6 Prefix Length
 ;
 MSG_IP6_MODE
-Modalitï¿½ IPv6
+Modalità IPv6
 ; IPv6 Mode
 ;
 MSG_GATE6

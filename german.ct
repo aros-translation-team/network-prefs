@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.2 (21.02.2026)
+## version $VER: networkprefs.catalog 4.2 (06.08.2026)
 ## language deutsch
 ## codeset 0
 ;
@@ -269,6 +269,14 @@ MSG_SERVICETYPE_CIFS
 CIFS/SMB
 ; CIFS/SMB
 ;
+MSG_TETHERING_WARNING
+\33lWenn das Tethering nach dem Neustart nicht funktioniert, prüfe, ob es auf dem Telefon aktiviert ist,\nund öffne dann die Netzwerk-Einstellungen und klicke auf Benutzen
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Tethering
+; Tethering
+;
 MSG_IP6
 IPv6-Adresse
 ; IPv6 Address
@@ -284,4 +292,20 @@ IPv6-Modus
 MSG_GATE6
 IPv6-Gateway
 ; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Adressierungsmodus
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Präfixlänge
+; Prefix Length
+;
+MSG_CFG_ADDR
+Adresse konfigurieren
+; Configure Address
+;
+MSG_PROTO_LABEL
+Adressprotokoll
+; Address Protocol
 ;

@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.2 (21.02.2026)
+## version $VER: network.catalog 4.2 (06.08.2026)
 ## language polski
 ## codeset 5
 ;
@@ -292,4 +292,20 @@ Tryb IPv6
 MSG_GATE6
 Brama IPv6
 ; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Tryb adresowania
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+D³ugo¶æ prefiksu
+; Prefix Length
+;
+MSG_CFG_ADDR
+Konfiguracja adresu
+; Configure Address
+;
+MSG_PROTO_LABEL
+Protokó³ adresu
+; Address Protocol
 ;

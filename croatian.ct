@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 1.1 (21.02.2026)
+## version $VER: networkprefs.catalog 4.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -10,9 +10,21 @@ MSG_DESCRIPTION
 TCP/IP Mre¾ne postavke
 ; TCP/IP Network preferences
 ;
+MSG_IFNAME
+Ime
+; Name
+;
+MSG_UP
+Aktiviraj
+; Active
+;
 MSG_DEVICE
 Ureðaj
 ; Device
+;
+MSG_UNIT
+Jedinica
+; Unit
 ;
 MSG_IP_MODE
 IP Mod
@@ -42,9 +54,21 @@ MSG_HOST_NAME
 Ime Domaæina
 ; Host Name
 ;
+MSG_HOST_NAMES
+Ime Domaæina i Aliasi
+; Host Name and Aliases
+;
 MSG_DOMAIN_NAME
 Ime Domene
 ; Domain Name
+;
+MSG_SERIAL_DEVICE
+Serijski Ureðaj
+; Serial Device
+;
+MSG_UNIT_NUMBER
+Jedinica
+; Unit
 ;
 MSG_IP_MODE_MANUAL
 Manualno
@@ -62,13 +86,69 @@ MSG_IP6_MODE_AUTO
 Samo link-lokalno
 ; Link-Local Only
 ;
+MSG_ENC_NONE
+Iskljuèen
+; None
+;
+MSG_ENC_WEP
+WEP
+; WEP
+;
+MSG_ENC_WPA
+WPA
+; WPA
+;
+MSG_KEY_TEXT
+Pristupna fraza
+; Passphrase
+;
+MSG_KEY_HEX
+Heksadecimalni
+; Hexadecimal
+;
+MSG_SSID
+Ime Mre¾e
+; Network Name
+;
+MSG_ENCTYPE
+Enkripcija
+; Encryption
+;
+MSG_KEYTYPE
+Tip Kljuèa
+; Key Type
+;
+MSG_KEY
+Kljuè
+; Key
+;
+MSG_HIDDEN
+Skrivena
+; Hidden
+;
+MSG_ADHOC
+Ad-hoc
+; Ad-hoc
+;
 MSG_TAB_IP_CONFIGURATION
 TCP/IP Konfiguracija
 ; TCP/IP Configuration
 ;
-MSG_TAB_COMPUTER_NAME
-Ime Raèunala
-; Computer Name
+MSG_TAB_COMPUTER_NAMES
+Lokalni Unosi Domaæina
+; Local Host Entries
+;
+MSG_TAB_WIRELESS
+Be¾iène Mre¾e
+; Wireless Networks
+;
+MSG_TAB_MOBILE
+Mobilni Internet
+; Mobile Broadband
+;
+MSG_TAB_SERVERS
+Montirana Dijeljenja
+; Mounted Shares
 ;
 MSG_AUTOSTART_STACK
 Autostart
@@ -82,6 +162,14 @@ MSG_ERR_NOT_RESTARTED_STACK
 Neuspje¹an restart network stack
 ; Failed to restart network stack
 ;
+MSG_ERR_NOT_RESTARTED_WIRELESS
+Neuspje¹an restart be¾iène mre¾e
+; Failed to restart wireless networking
+;
+MSG_ERR_NOT_RESTARTED_MOBILE
+Neuspje¹an restart ModemManagera
+; Failed to restart ModemManager
+;
 MSG_BUTTON_OK
 U redu
 ; Ok
@@ -90,9 +178,37 @@ MSG_BUTTON_USE
 _Upotrijebi
 ; Use
 ;
+MSG_BUTTON_ADD
+Dodaj
+; Add
+;
+MSG_BUTTON_EDIT
+Uredi
+; Edit
+;
+MSG_BUTTON_REMOVE
+Ukloni
+; Remove
+;
+MSG_BUTTON_APPLY
+Primijeni
+; Apply
+;
+MSG_BUTTON_CLOSE
+Zatvori
+; Close
+;
+MSG_BUTTON_CANCEL
+Odustani
+; _Cancel
+;
 MSG_ERROR_TITLE
 gre¹ka
 ; Error
+;
+MSG_WARNING_TITLE
+Upozorenje
+; Warning
 ;
 MSG_ERR_NOT_SAVED_PREFS
 Mre¾ne postavke nisu spremljene u %s
@@ -102,6 +218,10 @@ MSG_ERR_NOT_COPIED_FILES
 Dodatne datoteke nisu kopirane u %s
 ; Additional files not copied to %s
 ;
+MSG_WARN_MULTIPLE_IFACES
+DHCP ne radi pouzdano kada je konfigurirano vi¹e suèelja
+; DHCP does not work reliably when multiple interfaces are configured
+;
 MSG_INFO_TITLE
 Obavijest
 ; Information
@@ -109,6 +229,54 @@ Obavijest
 MSG_PREFS_SAVED_RESTART
 Postavke su spremljene u %s.\nRestart je potreban.  
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
+;
+MSG_IFWINDOW_TITLE
+Suèelje
+; Interface
+;
+MSG_HOSTWINDOW_TITLE
+Ime(na) Domaæina
+; Host Name(s)
+;
+MSG_NETWINDOW_TITLE
+Be¾ièna Mre¾a
+; Wireless Network
+;
+MSG_SERVERWINDOW_TITLE
+Montiraj Dijeljenje
+; Mount Share
+;
+MSG_USERNAME
+Korisnièko ime
+; Username
+;
+MSG_PASSWORD
+Lozinka
+; Password
+;
+MSG_WORKGROUP
+Ime Domene
+; Domain/Workgroup
+;
+MSG_SERVICE
+Ime Dijeljenja
+; Share Name
+;
+MSG_SERVICE_TYPES
+Tip Usluge
+; Service Type
+;
+MSG_SERVICETYPE_CIFS
+CIFS/SMB
+; CIFS/SMB
+;
+MSG_TETHERING_WARNING
+\33lAko tethering ne radi nakon ponovnog pokretanja, provjerite da je omoguæen na va¹em telefonu\ni zatim otvorite Mre¾ne postavke i kliknite Upotrijebi
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Tethering
+; Tethering
 ;
 MSG_IP6
 IPv6 adresa
@@ -126,4 +294,20 @@ IPv6 mod
 MSG_GATE6
 IPv6 Pristupnik
 ; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Mod Adresiranja
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Duljina Prefiksa
+; Prefix Length
+;
+MSG_CFG_ADDR
+Konfiguriraj Adresu
+; Configure Address
+;
+MSG_PROTO_LABEL
+Protokol Adrese
+; Address Protocol
 ;

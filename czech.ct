@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.1 (21.02.2026)
+## version $VER: network.catalog 4.1 (06.08.2026)
 ## language czech
 ## codeset 5
 ;
@@ -271,6 +271,14 @@ MSG_SERVICETYPE_CIFS
 CIFS/SMB
 ; CIFS/SMB
 ;
+MSG_TETHERING_WARNING
+\33lPokud sdílení pøipojení po restartu nefunguje, zkontrolujte, zda je na telefonu povoleno,\na poté otevøete editor Network a kliknìte na Pou¾ít
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Sdílení pøipojení
+; Tethering
+;
 ;
 MSG_IP6
 Adresa IPv6
@@ -287,4 +295,20 @@ Re¾im IPv6
 MSG_GATE6
 IPv6 Brána
 ; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Re¾im adresování
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Délka prefixu
+; Prefix Length
+;
+MSG_CFG_ADDR
+Nastavit adresu
+; Configure Address
+;
+MSG_PROTO_LABEL
+Protokol adresy
+; Address Protocol
 ;

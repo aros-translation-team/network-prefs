@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.3 (21.02.2026)
+## version $VER: network.catalog 4.3 (06.08.2026)
 ## codeset 2104
 ## language russian
 ;
@@ -170,6 +170,10 @@ MSG_BUTTON_OK
 Ок
 ; OK
 ;
+MSG_BUTTON_USE
+Применить
+; _Use
+;
 MSG_BUTTON_ADD
 Добавить
 ; Add
@@ -258,6 +262,14 @@ MSG_SERVICETYPE_CIFS
 CIFS/SMB
 ; CIFS/SMB
 ;
+MSG_TETHERING_WARNING
+\33lЕсли режим модема не работает после перезагрузки, проверьте, что он включён на телефоне,\nа затем откройте настройки сети и нажмите 'Применить'
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Режим модема
+; Tethering
+;
 MSG_IP6
 Адрес IPv6
 ; IPv6 Address
@@ -273,6 +285,22 @@ MSG_IP6_MODE
 MSG_GATE6
 Шлюз IPv6
 ; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Режим адресации
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Длина префикса
+; Prefix Length
+;
+MSG_CFG_ADDR
+Настроить адрес
+; Configure Address
+;
+MSG_PROTO_LABEL
+Протокол адреса
+; Address Protocol
 ;
 MSG_BUTTON_CANCEL
 Отмена

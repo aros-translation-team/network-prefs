@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.2 (21.02.2026)
+## version $VER: networkprefs.catalog 4.2 (06.08.2026)
 ## language norsk
 ## codeset 0
 ;
@@ -269,6 +269,14 @@ MSG_SERVICETYPE_CIFS
 CIFS/SMB
 ; CIFS/SMB
 ;
+MSG_TETHERING_WARNING
+\33lHvis internettdeling ikke fungerer etter omstart, sjekk at det er aktivert på telefonen\nog åpne deretter Nettverksinnstillinger og klikk Bruk
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Internettdeling
+; Tethering
+;
 MSG_IP6
 IPv6-adresse
 ; IPv6 Address
@@ -284,4 +292,20 @@ IPv6-modus
 MSG_GATE6
 IPv6-gateway
 ; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Adresseringsmodus
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Prefikslengde
+; Prefix Length
+;
+MSG_CFG_ADDR
+Konfigurer adresse
+; Configure Address
+;
+MSG_PROTO_LABEL
+Adresseprotokoll
+; Address Protocol
 ;

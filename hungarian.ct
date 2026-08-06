@@ -1,0 +1,312 @@
+## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_NAME
+Hálózati beállítások
+; Network Preferences
+;
+MSG_DESCRIPTION
+Hálózati beállítások
+; Network preferences
+;
+MSG_IFNAME
+Név
+; Name
+;
+MSG_UP
+Aktív
+; Active
+;
+MSG_DEVICE
+Eszköz
+; Device
+;
+MSG_UNIT
+Egység
+; Unit
+;
+MSG_IP_MODE
+IP mód
+; IP Mode
+;
+MSG_IP
+Cím
+; Address
+;
+MSG_MASK
+Alhálózati maszk
+; Net Mask
+;
+MSG_GATE
+Átjáró
+; Gateway
+;
+MSG_DNS1
+Elsõdleges DNS
+; Primary DNS
+;
+MSG_DNS2
+Másodlagos DNS
+; Secondary DNS
+;
+MSG_HOST_NAME
+Gépnév
+; Host Name
+;
+MSG_HOST_NAMES
+Gépnév és álnevek
+; Host Name and Aliases
+;
+MSG_DOMAIN_NAME
+Tartomány/Munkacsoport
+; Domain/Workgroup
+;
+MSG_SERIAL_DEVICE
+Soros eszköz
+; Serial Device
+;
+MSG_UNIT_NUMBER
+Egység
+; Unit
+;
+MSG_IP_MODE_MANUAL
+Kézi
+; Manual
+;
+MSG_IP_MODE_DHCP
+DHCP
+; DHCP
+;
+MSG_IP_MODE_AUTO
+Automatikus
+; Automatic
+;
+MSG_IP6_MODE_AUTO
+Csak link-local
+; Link-Local Only
+;
+MSG_ENC_NONE
+Nincs
+; None
+;
+MSG_ENC_WEP
+WEP
+; WEP
+;
+MSG_ENC_WPA
+WPA
+; WPA
+;
+MSG_KEY_TEXT
+Jelmondat
+; Passphrase
+;
+MSG_KEY_HEX
+Hexadecimális
+; Hexadecimal
+;
+MSG_SSID
+Hálózat neve
+; Network Name
+;
+MSG_ENCTYPE
+Titkosítás
+; Encryption
+;
+MSG_KEYTYPE
+Kulcs típusa
+; Key Type
+;
+MSG_KEY
+Kulcs
+; Key
+;
+MSG_HIDDEN
+Rejtett
+; Hidden
+;
+MSG_ADHOC
+Ad-hoc
+; Ad-hoc
+;
+MSG_TAB_IP_CONFIGURATION
+TCP/IP beállítások
+; TCP/IP Configuration
+;
+MSG_TAB_COMPUTER_NAMES
+Helyi gépnév-bejegyzések
+; Local Host Entries
+;
+MSG_TAB_WIRELESS
+Vezeték nélküli hálózatok
+; Wireless Networks
+;
+MSG_TAB_MOBILE
+Mobil szélessáv
+; Mobile Broadband
+;
+MSG_TAB_SERVERS
+Csatolt megosztások
+; Mounted Shares
+;
+MSG_AUTOSTART_STACK
+Hálózat indítása rendszerindításkor
+; Start networking during system boot
+;
+MSG_ERR_UNKNOWN_ERROR
+Ismeretlen hiba
+; Unknown error
+;
+MSG_ERR_NOT_RESTARTED_STACK
+Nem sikerült újraindítani a hálózati réteget
+; Failed to restart network stack
+;
+MSG_ERR_NOT_RESTARTED_WIRELESS
+Nem sikerült újraindítani a vezeték nélküli hálózatot
+; Failed to restart wireless networking
+;
+MSG_ERR_NOT_RESTARTED_MOBILE
+Nem sikerült újraindítani a ModemManager-t
+; Failed to restart ModemManager
+;
+MSG_BUTTON_OK
+Rendben
+; Ok
+;
+MSG_BUTTON_USE
+Használd
+; _Use
+;
+MSG_BUTTON_ADD
+Hozzáad
+; Add
+;
+MSG_BUTTON_EDIT
+Szerkesztés
+; Edit
+;
+MSG_BUTTON_REMOVE
+Eltávolít
+; Remove
+;
+MSG_BUTTON_APPLY
+Alkalmaz
+; Apply
+;
+MSG_BUTTON_CLOSE
+Bezárás
+; Close
+;
+MSG_BUTTON_CANCEL
+Mégse
+; _Cancel
+;
+MSG_ERROR_TITLE
+Hiba
+; Error
+;
+MSG_WARNING_TITLE
+Figyelmeztetés
+; Warning
+;
+MSG_ERR_NOT_SAVED_PREFS
+A hálózati beállítások nem lettek elmentve ide: %s
+; Network preferences not saved to %s
+;
+MSG_ERR_NOT_COPIED_FILES
+A további fájlok nem lettek átmásolva ide: %s
+; Additional files not copied to %s
+;
+MSG_WARN_MULTIPLE_IFACES
+A DHCP nem mûködik megbízhatóan, ha több interfész is be van állítva
+; DHCP does not work reliably when multiple interfaces are configured
+;
+MSG_INFO_TITLE
+Információ
+; Information
+;
+MSG_PREFS_SAVED_RESTART
+A beállítások el lettek mentve ide: %s.\nIndítsd újra az AROS-t, hogy érvénybe lépjenek.
+; Preferences have been saved to %s.\nRestart AROS for them to take effect.
+;
+MSG_IFWINDOW_TITLE
+Interfész
+; Interface
+;
+MSG_HOSTWINDOW_TITLE
+Gépnév(ek)
+; Host Name(s)
+;
+MSG_NETWINDOW_TITLE
+Vezeték nélküli hálózat
+; Wireless Network
+;
+MSG_SERVERWINDOW_TITLE
+Megosztás csatolása
+; Mount Share
+;
+MSG_USERNAME
+Felhasználónév
+; Username
+;
+MSG_PASSWORD
+Jelszó
+; Password
+;
+MSG_WORKGROUP
+Tartomány/Munkacsoport
+; Domain/Workgroup
+;
+MSG_SERVICE
+Megosztás neve
+; Share Name
+;
+MSG_SERVICE_TYPES
+Szolgáltatás típusa
+; Service Type
+;
+MSG_SERVICETYPE_CIFS
+CIFS/SMB
+; CIFS/SMB
+;
+MSG_TETHERING_WARNING
+\33lHa az internetmegosztás újraindítás után nem mûködik, ellenõrizd, hogy engedélyezve van-e a telefonodon,\nmajd nyisd meg a Hálózati beállításokat és kattints a Használ gombra
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Internetmegosztás
+; Tethering
+;
+MSG_IP6
+IPv6 cím
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+IPv6 elõtaghossz
+; IPv6 Prefix Length
+;
+MSG_IP6_MODE
+IPv6 mód
+; IPv6 Mode
+;
+MSG_GATE6
+IPv6 átjáró
+; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Címzési mód
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Elõtaghossz
+; Prefix Length
+;
+MSG_CFG_ADDR
+Cím beállítása
+; Configure Address
+;
+MSG_PROTO_LABEL
+Címprotokoll
+; Address Protocol
+;

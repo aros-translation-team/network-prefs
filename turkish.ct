@@ -1,0 +1,312 @@
+## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_NAME
+Að Tercihleri
+; Network Preferences
+;
+MSG_DESCRIPTION
+Að tercihleri
+; Network preferences
+;
+MSG_IFNAME
+Adý
+; Name
+;
+MSG_UP
+Aktif
+; Active
+;
+MSG_DEVICE
+Aygýt
+; Device
+;
+MSG_UNIT
+Birim
+; Unit
+;
+MSG_IP_MODE
+IP Modu
+; IP Mode
+;
+MSG_IP
+Adres
+; Address
+;
+MSG_MASK
+Að Maskesi
+; Net Mask
+;
+MSG_GATE
+Að Geçidi
+; Gateway
+;
+MSG_DNS1
+Birincil DNS
+; Primary DNS
+;
+MSG_DNS2
+Ýkincil DNS
+; Secondary DNS
+;
+MSG_HOST_NAME
+Makine Adý
+; Host Name
+;
+MSG_HOST_NAMES
+Makine Adý ve Takma Adlar
+; Host Name and Aliases
+;
+MSG_DOMAIN_NAME
+Etki Alaný/Çalýþma Grubu
+; Domain/Workgroup
+;
+MSG_SERIAL_DEVICE
+Seri Aygýt
+; Serial Device
+;
+MSG_UNIT_NUMBER
+Birim
+; Unit
+;
+MSG_IP_MODE_MANUAL
+Elle
+; Manual
+;
+MSG_IP_MODE_DHCP
+DHCP
+; DHCP
+;
+MSG_IP_MODE_AUTO
+Otomatik
+; Automatic
+;
+MSG_IP6_MODE_AUTO
+Yalnýzca Baðlantý-Yerel
+; Link-Local Only
+;
+MSG_ENC_NONE
+Hiçbiri
+; None
+;
+MSG_ENC_WEP
+WEP
+; WEP
+;
+MSG_ENC_WPA
+WPA
+; WPA
+;
+MSG_KEY_TEXT
+Parola
+; Passphrase
+;
+MSG_KEY_HEX
+Onaltýlýk
+; Hexadecimal
+;
+MSG_SSID
+Að Adý
+; Network Name
+;
+MSG_ENCTYPE
+Þifreleme
+; Encryption
+;
+MSG_KEYTYPE
+Anahtar Türü
+; Key Type
+;
+MSG_KEY
+Anahtar
+; Key
+;
+MSG_HIDDEN
+Gizli
+; Hidden
+;
+MSG_ADHOC
+Ad-hoc
+; Ad-hoc
+;
+MSG_TAB_IP_CONFIGURATION
+TCP/IP Yapýlandýrmasý
+; TCP/IP Configuration
+;
+MSG_TAB_COMPUTER_NAMES
+Yerel Makine Girdileri
+; Local Host Entries
+;
+MSG_TAB_WIRELESS
+Kablosuz Aðlar
+; Wireless Networks
+;
+MSG_TAB_MOBILE
+Mobil Geniþ Bant
+; Mobile Broadband
+;
+MSG_TAB_SERVERS
+Baðlý Paylaþýmlar
+; Mounted Shares
+;
+MSG_AUTOSTART_STACK
+Sistem önyüklemesi sýrasýnda aðý baþlat
+; Start networking during system boot
+;
+MSG_ERR_UNKNOWN_ERROR
+Bilinmeyen hata
+; Unknown error
+;
+MSG_ERR_NOT_RESTARTED_STACK
+Að yýðýný yeniden baþlatýlamadý
+; Failed to restart network stack
+;
+MSG_ERR_NOT_RESTARTED_WIRELESS
+Kablosuz að yeniden baþlatýlamadý
+; Failed to restart wireless networking
+;
+MSG_ERR_NOT_RESTARTED_MOBILE
+ModemManager yeniden baþlatýlamadý
+; Failed to restart ModemManager
+;
+MSG_BUTTON_OK
+Tamam
+; Ok
+;
+MSG_BUTTON_USE
+K_ullan
+; _Use
+;
+MSG_BUTTON_ADD
+Ekle
+; Add
+;
+MSG_BUTTON_EDIT
+Düzen
+; Edit
+;
+MSG_BUTTON_REMOVE
+Kaldýr
+; Remove
+;
+MSG_BUTTON_APPLY
+Uygula
+; Apply
+;
+MSG_BUTTON_CLOSE
+Kapat
+; Close
+;
+MSG_BUTTON_CANCEL
+_Vazgeç
+; _Cancel
+;
+MSG_ERROR_TITLE
+Hata
+; Error
+;
+MSG_WARNING_TITLE
+Uyarý
+; Warning
+;
+MSG_ERR_NOT_SAVED_PREFS
+Að tercihleri %s konumuna kaydedilmedi
+; Network preferences not saved to %s
+;
+MSG_ERR_NOT_COPIED_FILES
+Ek dosyalar %s konumuna kopyalanmadý
+; Additional files not copied to %s
+;
+MSG_WARN_MULTIPLE_IFACES
+Birden fazla arayüz yapýlandýrýldýðýnda DHCP güvenilir þekilde çalýþmaz
+; DHCP does not work reliably when multiple interfaces are configured
+;
+MSG_INFO_TITLE
+Bilgi
+; Information
+;
+MSG_PREFS_SAVED_RESTART
+Tercihler %s konumuna kaydedildi.\nEtkili olmasý için AROS'u yeniden baþlatýn.
+; Preferences have been saved to %s.\nRestart AROS for them to take effect.
+;
+MSG_IFWINDOW_TITLE
+Arayüz
+; Interface
+;
+MSG_HOSTWINDOW_TITLE
+Makine Ad(lar)ý
+; Host Name(s)
+;
+MSG_NETWINDOW_TITLE
+Kablosuz Að
+; Wireless Network
+;
+MSG_SERVERWINDOW_TITLE
+Paylaþýmý Baðla
+; Mount Share
+;
+MSG_USERNAME
+Kullanýcý Adý
+; Username
+;
+MSG_PASSWORD
+Þifre
+; Password
+;
+MSG_WORKGROUP
+Etki Alaný/Çalýþma Grubu
+; Domain/Workgroup
+;
+MSG_SERVICE
+Paylaþým Adý
+; Share Name
+;
+MSG_SERVICE_TYPES
+Hizmet Türü
+; Service Type
+;
+MSG_SERVICETYPE_CIFS
+CIFS/SMB
+; CIFS/SMB
+;
+MSG_TETHERING_WARNING
+\33lYeniden baþlatmadan sonra internet paylaþýmý çalýþmýyorsa, telefonunuzda etkin olduðunu\nkontrol edin, ardýndan Að tercihlerini açýp Kullan'a týklayýn
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Ýnternet Paylaþýmý
+; Tethering
+;
+MSG_IP6
+IPv6 Adresi
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+IPv6 Ön Ek Uzunluðu
+; IPv6 Prefix Length
+;
+MSG_IP6_MODE
+IPv6 Modu
+; IPv6 Mode
+;
+MSG_GATE6
+IPv6 Að Geçidi
+; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Adresleme Modu
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Ön Ek Uzunluðu
+; Prefix Length
+;
+MSG_CFG_ADDR
+Adresi Yapýlandýr
+; Configure Address
+;
+MSG_PROTO_LABEL
+Adres Protokolü
+; Address Protocol
+;

@@ -1,0 +1,312 @@
+## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_NAME
+Verkkoasetukset
+; Network Preferences
+;
+MSG_DESCRIPTION
+Verkkoasetukset
+; Network preferences
+;
+MSG_IFNAME
+Nimi
+; Name
+;
+MSG_UP
+Aktiivinen
+; Active
+;
+MSG_DEVICE
+Laite
+; Device
+;
+MSG_UNIT
+Laite
+; Unit
+;
+MSG_IP_MODE
+IP-tila
+; IP Mode
+;
+MSG_IP
+Osoite
+; Address
+;
+MSG_MASK
+Aliverkon peite
+; Net Mask
+;
+MSG_GATE
+Yhdyskäytävä
+; Gateway
+;
+MSG_DNS1
+Ensisijainen DNS
+; Primary DNS
+;
+MSG_DNS2
+Toissijainen DNS
+; Secondary DNS
+;
+MSG_HOST_NAME
+Konenimi
+; Host Name
+;
+MSG_HOST_NAMES
+Konenimi ja aliakset
+; Host Name and Aliases
+;
+MSG_DOMAIN_NAME
+Toimialue/Työryhmä
+; Domain/Workgroup
+;
+MSG_SERIAL_DEVICE
+Sarjalaite
+; Serial Device
+;
+MSG_UNIT_NUMBER
+Laite
+; Unit
+;
+MSG_IP_MODE_MANUAL
+Manuaalinen
+; Manual
+;
+MSG_IP_MODE_DHCP
+DHCP
+; DHCP
+;
+MSG_IP_MODE_AUTO
+Automaattinen
+; Automatic
+;
+MSG_IP6_MODE_AUTO
+Vain link-local
+; Link-Local Only
+;
+MSG_ENC_NONE
+Ei mitään
+; None
+;
+MSG_ENC_WEP
+WEP
+; WEP
+;
+MSG_ENC_WPA
+WPA
+; WPA
+;
+MSG_KEY_TEXT
+Salalause
+; Passphrase
+;
+MSG_KEY_HEX
+Heksadesimaali
+; Hexadecimal
+;
+MSG_SSID
+Verkon nimi
+; Network Name
+;
+MSG_ENCTYPE
+Salaus
+; Encryption
+;
+MSG_KEYTYPE
+Avaimen tyyppi
+; Key Type
+;
+MSG_KEY
+Avain
+; Key
+;
+MSG_HIDDEN
+Piilotettu
+; Hidden
+;
+MSG_ADHOC
+Ad-hoc
+; Ad-hoc
+;
+MSG_TAB_IP_CONFIGURATION
+TCP/IP-määritykset
+; TCP/IP Configuration
+;
+MSG_TAB_COMPUTER_NAMES
+Paikalliset konemerkinnät
+; Local Host Entries
+;
+MSG_TAB_WIRELESS
+Langattomat verkot
+; Wireless Networks
+;
+MSG_TAB_MOBILE
+Mobiililaajakaista
+; Mobile Broadband
+;
+MSG_TAB_SERVERS
+Liitetyt jaot
+; Mounted Shares
+;
+MSG_AUTOSTART_STACK
+Käynnistä verkko järjestelmän käynnistyksen yhteydessä
+; Start networking during system boot
+;
+MSG_ERR_UNKNOWN_ERROR
+Tuntematon virhe
+; Unknown error
+;
+MSG_ERR_NOT_RESTARTED_STACK
+Verkkopinon uudelleenkäynnistys epäonnistui
+; Failed to restart network stack
+;
+MSG_ERR_NOT_RESTARTED_WIRELESS
+Langattoman verkon uudelleenkäynnistys epäonnistui
+; Failed to restart wireless networking
+;
+MSG_ERR_NOT_RESTARTED_MOBILE
+ModemManagerin uudelleenkäynnistys epäonnistui
+; Failed to restart ModemManager
+;
+MSG_BUTTON_OK
+Selvä
+; Ok
+;
+MSG_BUTTON_USE
+_Käytä
+; _Use
+;
+MSG_BUTTON_ADD
+Lisää
+; Add
+;
+MSG_BUTTON_EDIT
+Muokkaus
+; Edit
+;
+MSG_BUTTON_REMOVE
+Poista
+; Remove
+;
+MSG_BUTTON_APPLY
+Toteuta
+; Apply
+;
+MSG_BUTTON_CLOSE
+Sulje
+; Close
+;
+MSG_BUTTON_CANCEL
+_Peru
+; _Cancel
+;
+MSG_ERROR_TITLE
+Virhe
+; Error
+;
+MSG_WARNING_TITLE
+Varoitus
+; Warning
+;
+MSG_ERR_NOT_SAVED_PREFS
+Verkkoasetuksia ei tallennettu kohteeseen %s
+; Network preferences not saved to %s
+;
+MSG_ERR_NOT_COPIED_FILES
+Lisätiedostoja ei kopioitu kohteeseen %s
+; Additional files not copied to %s
+;
+MSG_WARN_MULTIPLE_IFACES
+DHCP ei toimi luotettavasti, kun useita liitäntöjä on määritetty
+; DHCP does not work reliably when multiple interfaces are configured
+;
+MSG_INFO_TITLE
+Tietoa
+; Information
+;
+MSG_PREFS_SAVED_RESTART
+Asetukset on tallennettu kohteeseen %s.\nKäynnistä AROS uudelleen, jotta ne tulevat voimaan.
+; Preferences have been saved to %s.\nRestart AROS for them to take effect.
+;
+MSG_IFWINDOW_TITLE
+Liitäntä
+; Interface
+;
+MSG_HOSTWINDOW_TITLE
+Konenimet
+; Host Name(s)
+;
+MSG_NETWINDOW_TITLE
+Langaton verkko
+; Wireless Network
+;
+MSG_SERVERWINDOW_TITLE
+Liitä jako
+; Mount Share
+;
+MSG_USERNAME
+Käyttäjätunnus
+; Username
+;
+MSG_PASSWORD
+Salasana
+; Password
+;
+MSG_WORKGROUP
+Toimialue/Työryhmä
+; Domain/Workgroup
+;
+MSG_SERVICE
+Jaon nimi
+; Share Name
+;
+MSG_SERVICE_TYPES
+Palvelun tyyppi
+; Service Type
+;
+MSG_SERVICETYPE_CIFS
+CIFS/SMB
+; CIFS/SMB
+;
+MSG_TETHERING_WARNING
+\33lJos yhteyden jakaminen ei toimi uudelleenkäynnistyksen jälkeen, tarkista että se on\nkäytössä puhelimessasi, avaa sitten Verkkoasetukset ja napsauta Käytä
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Yhteyden jakaminen
+; Tethering
+;
+MSG_IP6
+IPv6-osoite
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+IPv6-etuliitteen pituus
+; IPv6 Prefix Length
+;
+MSG_IP6_MODE
+IPv6-tila
+; IPv6 Mode
+;
+MSG_GATE6
+IPv6-yhdyskäytävä
+; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Osoitustila
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Etuliitteen pituus
+; Prefix Length
+;
+MSG_CFG_ADDR
+Määritä osoite
+; Configure Address
+;
+MSG_PROTO_LABEL
+Osoiteprotokolla
+; Address Protocol
+;

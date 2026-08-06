@@ -1,0 +1,312 @@
+## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_NAME
+Netwerkinstellingen
+; Network Preferences
+;
+MSG_DESCRIPTION
+Netwerkinstellingen
+; Network preferences
+;
+MSG_IFNAME
+Naam
+; Name
+;
+MSG_UP
+Actief
+; Active
+;
+MSG_DEVICE
+Apparaat
+; Device
+;
+MSG_UNIT
+Unit
+; Unit
+;
+MSG_IP_MODE
+IP-modus
+; IP Mode
+;
+MSG_IP
+Adres
+; Address
+;
+MSG_MASK
+Netmasker
+; Net Mask
+;
+MSG_GATE
+Gateway
+; Gateway
+;
+MSG_DNS1
+Primaire DNS
+; Primary DNS
+;
+MSG_DNS2
+Secundaire DNS
+; Secondary DNS
+;
+MSG_HOST_NAME
+Hostnaam
+; Host Name
+;
+MSG_HOST_NAMES
+Hostnaam en aliassen
+; Host Name and Aliases
+;
+MSG_DOMAIN_NAME
+Domein/Werkgroep
+; Domain/Workgroup
+;
+MSG_SERIAL_DEVICE
+Serieel apparaat
+; Serial Device
+;
+MSG_UNIT_NUMBER
+Unit
+; Unit
+;
+MSG_IP_MODE_MANUAL
+Handmatig
+; Manual
+;
+MSG_IP_MODE_DHCP
+DHCP
+; DHCP
+;
+MSG_IP_MODE_AUTO
+Automatisch
+; Automatic
+;
+MSG_IP6_MODE_AUTO
+Alleen link-lokaal
+; Link-Local Only
+;
+MSG_ENC_NONE
+Geen
+; None
+;
+MSG_ENC_WEP
+WEP
+; WEP
+;
+MSG_ENC_WPA
+WPA
+; WPA
+;
+MSG_KEY_TEXT
+Wachtwoordzin
+; Passphrase
+;
+MSG_KEY_HEX
+Hexadecimaal
+; Hexadecimal
+;
+MSG_SSID
+Netwerknaam
+; Network Name
+;
+MSG_ENCTYPE
+Versleuteling
+; Encryption
+;
+MSG_KEYTYPE
+Sleuteltype
+; Key Type
+;
+MSG_KEY
+Sleutel
+; Key
+;
+MSG_HIDDEN
+Verborgen
+; Hidden
+;
+MSG_ADHOC
+Ad-hoc
+; Ad-hoc
+;
+MSG_TAB_IP_CONFIGURATION
+TCP/IP-configuratie
+; TCP/IP Configuration
+;
+MSG_TAB_COMPUTER_NAMES
+Lokale hostvermeldingen
+; Local Host Entries
+;
+MSG_TAB_WIRELESS
+Draadloze netwerken
+; Wireless Networks
+;
+MSG_TAB_MOBILE
+Mobiel breedband
+; Mobile Broadband
+;
+MSG_TAB_SERVERS
+Gekoppelde gedeelde mappen
+; Mounted Shares
+;
+MSG_AUTOSTART_STACK
+Netwerk starten tijdens systeemstart
+; Start networking during system boot
+;
+MSG_ERR_UNKNOWN_ERROR
+Onbekende fout
+; Unknown error
+;
+MSG_ERR_NOT_RESTARTED_STACK
+Herstarten van de netwerkstack mislukt
+; Failed to restart network stack
+;
+MSG_ERR_NOT_RESTARTED_WIRELESS
+Herstarten van draadloos netwerk mislukt
+; Failed to restart wireless networking
+;
+MSG_ERR_NOT_RESTARTED_MOBILE
+Herstarten van ModemManager mislukt
+; Failed to restart ModemManager
+;
+MSG_BUTTON_OK
+Ok
+; Ok
+;
+MSG_BUTTON_USE
+_Gebruik
+; _Use
+;
+MSG_BUTTON_ADD
+Voeg toe
+; Add
+;
+MSG_BUTTON_EDIT
+Bewerken
+; Edit
+;
+MSG_BUTTON_REMOVE
+Verwijder
+; Remove
+;
+MSG_BUTTON_APPLY
+Toepassen
+; Apply
+;
+MSG_BUTTON_CLOSE
+Sluit
+; Close
+;
+MSG_BUTTON_CANCEL
+_Annuleer
+; _Cancel
+;
+MSG_ERROR_TITLE
+Fout
+; Error
+;
+MSG_WARNING_TITLE
+Waarschuwing
+; Warning
+;
+MSG_ERR_NOT_SAVED_PREFS
+Netwerkinstellingen niet bewaard naar %s
+; Network preferences not saved to %s
+;
+MSG_ERR_NOT_COPIED_FILES
+Extra bestanden niet gekopieerd naar %s
+; Additional files not copied to %s
+;
+MSG_WARN_MULTIPLE_IFACES
+DHCP werkt niet betrouwbaar als er meerdere interfaces zijn ingesteld
+; DHCP does not work reliably when multiple interfaces are configured
+;
+MSG_INFO_TITLE
+Informatie
+; Information
+;
+MSG_PREFS_SAVED_RESTART
+De instellingen zijn bewaard naar %s.\nHerstart AROS om ze van kracht te laten worden.
+; Preferences have been saved to %s.\nRestart AROS for them to take effect.
+;
+MSG_IFWINDOW_TITLE
+Interface
+; Interface
+;
+MSG_HOSTWINDOW_TITLE
+Hostnamen
+; Host Name(s)
+;
+MSG_NETWINDOW_TITLE
+Draadloos netwerk
+; Wireless Network
+;
+MSG_SERVERWINDOW_TITLE
+Gedeelde map koppelen
+; Mount Share
+;
+MSG_USERNAME
+Gebruikersnaam
+; Username
+;
+MSG_PASSWORD
+Wachtwoord
+; Password
+;
+MSG_WORKGROUP
+Domein/Werkgroep
+; Domain/Workgroup
+;
+MSG_SERVICE
+Naam gedeelde map
+; Share Name
+;
+MSG_SERVICE_TYPES
+Servicetype
+; Service Type
+;
+MSG_SERVICETYPE_CIFS
+CIFS/SMB
+; CIFS/SMB
+;
+MSG_TETHERING_WARNING
+\33lAls tethering na het herstarten niet werkt, controleer dan of het op uw telefoon is ingeschakeld\nen open daarna Netwerkinstellingen en klik op Gebruik
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Tethering
+; Tethering
+;
+MSG_IP6
+IPv6-adres
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+IPv6-prefixlengte
+; IPv6 Prefix Length
+;
+MSG_IP6_MODE
+IPv6-modus
+; IPv6 Mode
+;
+MSG_GATE6
+IPv6-gateway
+; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Adresseringsmodus
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Prefixlengte
+; Prefix Length
+;
+MSG_CFG_ADDR
+Adres instellen
+; Configure Address
+;
+MSG_PROTO_LABEL
+Adresprotocol
+; Address Protocol
+;

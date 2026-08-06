@@ -1,0 +1,312 @@
+## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_NAME
+Podeçavanja mre§e
+; Network Preferences
+;
+MSG_DESCRIPTION
+Podeçavanja mre§e
+; Network preferences
+;
+MSG_IFNAME
+Ime
+; Name
+;
+MSG_UP
+Aktivno
+; Active
+;
+MSG_DEVICE
+UreÐaj
+; Device
+;
+MSG_UNIT
+Jedinica
+; Unit
+;
+MSG_IP_MODE
+IP re§im
+; IP Mode
+;
+MSG_IP
+Adresa
+; Address
+;
+MSG_MASK
+Mre§na maska
+; Net Mask
+;
+MSG_GATE
+Mre§ni prolaz
+; Gateway
+;
+MSG_DNS1
+Primarni DNS
+; Primary DNS
+;
+MSG_DNS2
+Sekundarni DNS
+; Secondary DNS
+;
+MSG_HOST_NAME
+Ime hosta
+; Host Name
+;
+MSG_HOST_NAMES
+Ime hosta i alijasi
+; Host Name and Aliases
+;
+MSG_DOMAIN_NAME
+Domen/Radna grupa
+; Domain/Workgroup
+;
+MSG_SERIAL_DEVICE
+Serijski ureÐaj
+; Serial Device
+;
+MSG_UNIT_NUMBER
+Jedinica
+; Unit
+;
+MSG_IP_MODE_MANUAL
+RuŸno
+; Manual
+;
+MSG_IP_MODE_DHCP
+DHCP
+; DHCP
+;
+MSG_IP_MODE_AUTO
+Automatski
+; Automatic
+;
+MSG_IP6_MODE_AUTO
+Samo link-local
+; Link-Local Only
+;
+MSG_ENC_NONE
+Nema
+; None
+;
+MSG_ENC_WEP
+WEP
+; WEP
+;
+MSG_ENC_WPA
+WPA
+; WPA
+;
+MSG_KEY_TEXT
+Pristupna fraza
+; Passphrase
+;
+MSG_KEY_HEX
+Heksadecimalni
+; Hexadecimal
+;
+MSG_SSID
+Ime mre§e
+; Network Name
+;
+MSG_ENCTYPE
+æifrovanje
+; Encryption
+;
+MSG_KEYTYPE
+Tip kljuŸa
+; Key Type
+;
+MSG_KEY
+KljuŸ
+; Key
+;
+MSG_HIDDEN
+Skrivena
+; Hidden
+;
+MSG_ADHOC
+Ad-hoc
+; Ad-hoc
+;
+MSG_TAB_IP_CONFIGURATION
+TCP/IP konfiguracija
+; TCP/IP Configuration
+;
+MSG_TAB_COMPUTER_NAMES
+Lokalni unosi hostova
+; Local Host Entries
+;
+MSG_TAB_WIRELESS
+Be§iŸne mre§e
+; Wireless Networks
+;
+MSG_TAB_MOBILE
+Mobilni internet
+; Mobile Broadband
+;
+MSG_TAB_SERVERS
+Montirani deljeni resursi
+; Mounted Shares
+;
+MSG_AUTOSTART_STACK
+Pokreni mre§u pri podizanju sistema
+; Start networking during system boot
+;
+MSG_ERR_UNKNOWN_ERROR
+Nepoznata greçka
+; Unknown error
+;
+MSG_ERR_NOT_RESTARTED_STACK
+Neuspelo ponovno pokretanje mre§nog steka
+; Failed to restart network stack
+;
+MSG_ERR_NOT_RESTARTED_WIRELESS
+Neuspelo ponovno pokretanje be§iŸne mre§e
+; Failed to restart wireless networking
+;
+MSG_ERR_NOT_RESTARTED_MOBILE
+Neuspelo ponovno pokretanje ModemManager-a
+; Failed to restart ModemManager
+;
+MSG_BUTTON_OK
+Ok
+; Ok
+;
+MSG_BUTTON_USE
+_Koristi
+; _Use
+;
+MSG_BUTTON_ADD
+Dodaj
+; Add
+;
+MSG_BUTTON_EDIT
+Uredi
+; Edit
+;
+MSG_BUTTON_REMOVE
+Ukloni
+; Remove
+;
+MSG_BUTTON_APPLY
+Primeni
+; Apply
+;
+MSG_BUTTON_CLOSE
+Zatvori
+; Close
+;
+MSG_BUTTON_CANCEL
+_Poniçti
+; _Cancel
+;
+MSG_ERROR_TITLE
+Greçka
+; Error
+;
+MSG_WARNING_TITLE
+Upozorenje
+; Warning
+;
+MSG_ERR_NOT_SAVED_PREFS
+Podeçavanja mre§e nisu snimljena u %s
+; Network preferences not saved to %s
+;
+MSG_ERR_NOT_COPIED_FILES
+Dodatni fajlovi nisu kopirani u %s
+; Additional files not copied to %s
+;
+MSG_WARN_MULTIPLE_IFACES
+DHCP ne radi pouzdano kada je podeçeno viçe interfejsa
+; DHCP does not work reliably when multiple interfaces are configured
+;
+MSG_INFO_TITLE
+Informacije
+; Information
+;
+MSG_PREFS_SAVED_RESTART
+Podeçavanja su snimljena u %s.\nPonovo pokrenite AROS da bi bila primenjena.
+; Preferences have been saved to %s.\nRestart AROS for them to take effect.
+;
+MSG_IFWINDOW_TITLE
+Interfejs
+; Interface
+;
+MSG_HOSTWINDOW_TITLE
+Ime(na) hosta
+; Host Name(s)
+;
+MSG_NETWINDOW_TITLE
+Be§iŸna mre§a
+; Wireless Network
+;
+MSG_SERVERWINDOW_TITLE
+Montiraj deljeni resurs
+; Mount Share
+;
+MSG_USERNAME
+KorisniŸko ime
+; Username
+;
+MSG_PASSWORD
+Lozinka
+; Password
+;
+MSG_WORKGROUP
+Domen/Radna grupa
+; Domain/Workgroup
+;
+MSG_SERVICE
+Ime deljenog resursa
+; Share Name
+;
+MSG_SERVICE_TYPES
+Tip servisa
+; Service Type
+;
+MSG_SERVICETYPE_CIFS
+CIFS/SMB
+; CIFS/SMB
+;
+MSG_TETHERING_WARNING
+\33lAko tethering ne radi posle ponovnog pokretanja, proverite da li je ukljuŸen na telefonu\ni zatim otvorite podeçavanja mre§e i kliknite na Koristi
+; \33lIf the tethering is not working after reboot, check that it is enabled on your phone\nand then open Network prefs and click Use
+;
+MSG_TAB_TETHERING
+Tethering
+; Tethering
+;
+MSG_IP6
+IPv6 adresa
+; IPv6 Address
+;
+MSG_IP6_PREFIX
+Du§ina IPv6 prefiksa
+; IPv6 Prefix Length
+;
+MSG_IP6_MODE
+IPv6 re§im
+; IPv6 Mode
+;
+MSG_GATE6
+IPv6 mre§ni prolaz
+; IPv6 Gateway
+;
+MSG_ADDR_MODE
+Re§im adresiranja
+; Addressing Mode
+;
+MSG_PREFIX_LEN
+Du§ina prefiksa
+; Prefix Length
+;
+MSG_CFG_ADDR
+Podesi adresu
+; Configure Address
+;
+MSG_PROTO_LABEL
+Protokol adrese
+; Address Protocol
+;

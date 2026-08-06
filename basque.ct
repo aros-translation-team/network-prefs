@@ -206,11 +206,11 @@ Oharpen
 ; Warning
 ;
 MSG_ERR_NOT_SAVED_PREFS
-Sarearen hobespenak ez dira gorde hemen: %s  
+Sarearen hobespenak ez dira gorde hemen: %s
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
-Fitxategi osagarriak ez dira kopiatu hemen: %s 
+Fitxategi osagarriak ez dira kopiatu hemen: %s
 ; Additional files not copied to %s
 ;
 MSG_WARN_MULTIPLE_IFACES
@@ -222,7 +222,7 @@ Informazioa
 ; Information
 ;
 MSG_PREFS_SAVED_RESTART
-Hobespenak %s direktorioan gorde dira.\nBerrabiarazi AROS para que sean efectivas. 
+Hobespenak %s direktorioan gorde dira.\nBerrabiarazi AROS para que sean efectivas.
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE

@@ -227,7 +227,7 @@ Obavijest
 ; Information
 ;
 MSG_PREFS_SAVED_RESTART
-Postavke su spremljene u %s.\nRestart je potreban.  
+Postavke su spremljene u %s.\nRestart je potreban.
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE
@@ -290,7 +290,6 @@ MSG_IP6_MODE
 IPv6 mod
 ; IPv6 Mode
 ;
-
 MSG_GATE6
 IPv6 Pristupnik
 ; IPv6 Gateway

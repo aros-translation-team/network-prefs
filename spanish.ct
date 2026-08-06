@@ -210,11 +210,11 @@ Advertencia
 ; Warning
 ;
 MSG_ERR_NOT_SAVED_PREFS
-Las preferencias de red no se han guardado en %s  
+Las preferencias de red no se han guardado en %s
 ; Network preferences not saved to %s
 ;
 MSG_ERR_NOT_COPIED_FILES
-Ficheros adicionales no se han copiado a %s 
+Ficheros adicionales no se han copiado a %s
 ; Additional files not copied to %s
 ;
 MSG_WARN_MULTIPLE_IFACES
@@ -226,7 +226,7 @@ Información
 ; Information
 ;
 MSG_PREFS_SAVED_RESTART
-Las preferencias guardadas en %s.\nReinicia AROS para que sean efectivas. 
+Las preferencias guardadas en %s.\nReinicia AROS para que sean efectivas.
 ; Preferences have been saved to %s.\nRestart AROS for them to take effect.
 ;
 MSG_IFWINDOW_TITLE

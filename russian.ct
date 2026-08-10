@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.3 (06.08.2026)
+## version $VER: network.catalog 4.4 (10.08.2026)
 ## codeset 2104
 ## language russian
 ;
@@ -305,4 +305,36 @@ MSG_PROTO_LABEL
 MSG_BUTTON_CANCEL
 Отмена
 ; Cancel
+;
+MSG_TUNWINDOW_TITLE
+Настроить туннель 6in4
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Туннель (внешний IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Конечная точка (внутренний IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Удалённый IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Локальный IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Добавить интерфейс
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Добавить туннель
+; Add Tunnel
 ;

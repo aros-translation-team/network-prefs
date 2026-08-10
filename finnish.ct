@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## version $VER: networkprefs.catalog 4.1 (10.08.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -309,4 +309,36 @@ M‰‰rit‰ osoite
 MSG_PROTO_LABEL
 Osoiteprotokolla
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+M‰‰rit‰ 6in4-tunneli
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Tunneli (ulompi IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+P‰‰tepiste (sisempi IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Et‰-IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Paikallinen IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Lis‰‰ liit‰nt‰
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Lis‰‰ tunneli
+; Add Tunnel
 ;

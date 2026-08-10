@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.1 (06.08.2026)
+## version $VER: network.catalog 4.2 (10.08.2026)
 ## language czech
 ## codeset 5
 ;
@@ -311,4 +311,36 @@ Nastavit adresu
 MSG_PROTO_LABEL
 Protokol adresy
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+Nastavit tunel 6in4
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Tunel (vnìj¹í IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Koncový bod (vnitøní IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Vzdálená IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Místní IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Pøidat rozhraní
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Pøidat tunel
+; Add Tunnel
 ;

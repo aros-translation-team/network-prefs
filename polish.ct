@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.2 (06.08.2026)
+## version $VER: network.catalog 4.3 (10.08.2026)
 ## language polski
 ## codeset 5
 ;
@@ -308,4 +308,36 @@ Konfiguracja adresu
 MSG_PROTO_LABEL
 Protokó³ adresu
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+Konfiguruj tunel 6in4
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Tunel (zewnêtrzny IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Punkt koñcowy (wewnêtrzny IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Zdalny IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Lokalny IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Dodaj interfejs
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Dodaj tunel
+; Add Tunnel
 ;

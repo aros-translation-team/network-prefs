@@ -229,3 +229,27 @@ Configure Address
 MSG_PROTO_LABEL (//)
 Address Protocol
 ;
+MSG_TUNWINDOW_TITLE (//)
+Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER (//)
+Tunnel (outer IPv4)
+;
+MSG_TUN_INNER (//)
+Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE (//)
+Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL (//)
+Local IPv4 (TSRC)
+;
+MSG_TUN_TTL (//)
+TTL
+;
+MSG_BUTTON_ADD_INTERFACE (//)
+Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL (//)
+Add Tunnel
+;

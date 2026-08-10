@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## version $VER: networkprefs.catalog 4.1 (10.08.2026)
 ## language srpski
 ## codeset 8
 ;
@@ -309,4 +309,36 @@ Podesi adresu
 MSG_PROTO_LABEL
 Protokol adrese
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+Podesi 6in4 tunel
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Tunel (spoljni IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Krajnja tacka (unutrasnji IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Udaljeni IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Lokalni IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Dodaj interfejs
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Dodaj tunel
+; Add Tunnel
 ;

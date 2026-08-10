@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.2 (06.08.2026)
+## version $VER: network.catalog 4.3 (10.08.2026)
 ## language italiano
 ## codeset 0
 ;
@@ -308,4 +308,36 @@ Configura indirizzo
 MSG_PROTO_LABEL
 Protocollo indirizzo
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+Configura tunnel 6in4
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Tunnel (IPv4 esterno)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Endpoint (IPv6 interno)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+IPv4 remoto (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+IPv4 locale (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Aggiungi interfaccia
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Aggiungi tunnel
+; Add Tunnel
 ;

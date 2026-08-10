@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## version $VER: networkprefs.catalog 4.1 (10.08.2026)
 ## language magyar
 ## codeset 5
 ;
@@ -309,4 +309,36 @@ Cím beállítása
 MSG_PROTO_LABEL
 Címprotokoll
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+6in4 alagút beállítása
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Alagút (külsõ IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Végpont (belsõ IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Távoli IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Helyi IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Csatoló hozzáadása
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Alagút hozzáadása
+; Add Tunnel
 ;

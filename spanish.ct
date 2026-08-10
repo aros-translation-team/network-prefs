@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.2 (06.08.2026)
+## version $VER: networkprefs.catalog 4.3 (10.08.2026)
 ## language español
 ## codeset 0
 ;
@@ -308,4 +308,36 @@ Configurar dirección
 MSG_PROTO_LABEL
 Protocolo de dirección
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+Configurar túnel 6in4
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Túnel (IPv4 externa)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Extremo (IPv6 interna)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+IPv4 remota (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+IPv4 local (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Añadir interfaz
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Añadir túnel
+; Add Tunnel
 ;

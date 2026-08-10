@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (06.08.2026)
+## version $VER: networkprefs.catalog 4.2 (10.08.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -304,4 +304,36 @@ Helbidea konfiguratu
 MSG_PROTO_LABEL
 Helbide-protokoloa
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+Konfiguratu 6in4 tunela
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Tunela (kanpoko IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Amaiera-puntua (barneko IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Urruneko IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Bertako IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Gehitu interfazea
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Gehitu tunela
+; Add Tunnel
 ;

@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## version $VER: networkprefs.catalog 4.1 (10.08.2026)
 ## language català
 ## codeset 0
 ;
@@ -309,4 +309,36 @@ Configurar adreça
 MSG_PROTO_LABEL
 Protocol d'adreça
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+Configura el túnel 6in4
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Túnel (IPv4 exterior)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Extrem (IPv6 interior)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+IPv4 remota (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+IPv4 local (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Afegeix una interfície
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Afegeix un túnel
+; Add Tunnel
 ;

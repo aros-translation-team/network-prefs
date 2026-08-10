@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.0 (06.08.2026)
+## version $VER: networkprefs.catalog 4.1 (10.08.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -309,4 +309,36 @@ Adresi Yapýlandýr
 MSG_PROTO_LABEL
 Adres Protokolü
 ; Address Protocol
+;
+MSG_TUNWINDOW_TITLE
+6in4 Tünelini Yapýlandýr
+; Configure 6in4 Tunnel
+;
+MSG_TUN_OUTER
+Tünel (dýþ IPv4)
+; Tunnel (outer IPv4)
+;
+MSG_TUN_INNER
+Uç nokta (iç IPv6)
+; Endpoint (inner IPv6)
+;
+MSG_TUN_REMOTE
+Uzak IPv4 (TDST)
+; Remote IPv4 (TDST)
+;
+MSG_TUN_LOCAL
+Yerel IPv4 (TSRC)
+; Local IPv4 (TSRC)
+;
+MSG_TUN_TTL
+TTL
+; TTL
+;
+MSG_BUTTON_ADD_INTERFACE
+Arabirim Ekle
+; Add Interface
+;
+MSG_BUTTON_ADD_TUNNEL
+Tünel Ekle
+; Add Tunnel
 ;

@@ -311,24 +311,24 @@ Protokol adrese
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-Podesi 6in4 tunel
-; Configure 6in4 Tunnel
+Podesi tunel
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Tunel (spoljni IPv4)
-; Tunnel (outer IPv4)
+Tunel (spoljni %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Krajnja tacka (unutrasnji IPv6)
-; Endpoint (inner IPv6)
+Krajnja tacka (unutrasnji %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Udaljeni IPv4 (TDST)
-; Remote IPv4 (TDST)
+Udaljeni %s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Lokalni IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Lokalni %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -341,4 +341,16 @@ Dodaj interfejs
 MSG_BUTTON_ADD_TUNNEL
 Dodaj tunel
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Tip
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

@@ -311,24 +311,24 @@ Címprotokoll
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-6in4 alagút beállítása
-; Configure 6in4 Tunnel
+Alagút beállítása
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Alagút (külsõ IPv4)
-; Tunnel (outer IPv4)
+Alagút (külsõ %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Végpont (belsõ IPv6)
-; Endpoint (inner IPv6)
+Végpont (belsõ %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Távoli IPv4 (TDST)
-; Remote IPv4 (TDST)
+Távoli %s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Helyi IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Helyi %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -341,4 +341,16 @@ Csatoló hozzáadása
 MSG_BUTTON_ADD_TUNNEL
 Alagút hozzáadása
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Típus
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

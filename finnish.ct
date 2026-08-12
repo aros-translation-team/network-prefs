@@ -311,24 +311,24 @@ Osoiteprotokolla
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-M‰‰rit‰ 6in4-tunneli
-; Configure 6in4 Tunnel
+M‰‰rit‰ tunneli
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Tunneli (ulompi IPv4)
-; Tunnel (outer IPv4)
+Tunneli (ulompi %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-P‰‰tepiste (sisempi IPv6)
-; Endpoint (inner IPv6)
+P‰‰tepiste (sisempi %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Et‰-IPv4 (TDST)
-; Remote IPv4 (TDST)
+Et‰-%s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Paikallinen IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Paikallinen %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -341,4 +341,16 @@ Lis‰‰ liit‰nt‰
 MSG_BUTTON_ADD_TUNNEL
 Lis‰‰ tunneli
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Tyyppi
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

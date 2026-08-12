@@ -313,24 +313,24 @@ Protokol adresy
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-Nastavit tunel 6in4
-; Configure 6in4 Tunnel
+Nastavit tunel
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Tunel (vnìj¹í IPv4)
-; Tunnel (outer IPv4)
+Tunel (vnìj¹í %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Koncový bod (vnitøní IPv6)
-; Endpoint (inner IPv6)
+Koncový bod (vnitøní %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Vzdálená IPv4 (TDST)
-; Remote IPv4 (TDST)
+Vzdálená %s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Místní IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Místní %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -343,4 +343,16 @@ Pøidat rozhraní
 MSG_BUTTON_ADD_TUNNEL
 Pøidat tunel
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Typ
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

@@ -307,24 +307,24 @@ MSG_BUTTON_CANCEL
 ; Cancel
 ;
 MSG_TUNWINDOW_TITLE
-Настроить туннель 6in4
-; Configure 6in4 Tunnel
+Настроить туннель
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Туннель (внешний IPv4)
-; Tunnel (outer IPv4)
+Туннель (внешний %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Конечная точка (внутренний IPv6)
-; Endpoint (inner IPv6)
+Конечная точка (внутренний %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Удалённый IPv4 (TDST)
-; Remote IPv4 (TDST)
+Удалённый %s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Локальный IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Локальный %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -337,4 +337,16 @@ MSG_BUTTON_ADD_INTERFACE
 MSG_BUTTON_ADD_TUNNEL
 Добавить туннель
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Тип
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

@@ -310,24 +310,24 @@ Adressprotokoll
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-6in4-Tunnel konfigurieren
-; Configure 6in4 Tunnel
+Tunnel konfigurieren
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Tunnel (äußeres IPv4)
-; Tunnel (outer IPv4)
+Tunnel (äußeres %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Endpunkt (inneres IPv6)
-; Endpoint (inner IPv6)
+Endpunkt (inneres %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Entferntes IPv4 (TDST)
-; Remote IPv4 (TDST)
+Entferntes %s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Lokales IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Lokales %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -340,4 +340,16 @@ Schnittstelle hinzufügen
 MSG_BUTTON_ADD_TUNNEL
 Tunnel hinzufügen
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Typ
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

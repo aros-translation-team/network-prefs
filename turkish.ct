@@ -311,24 +311,24 @@ Adres Protokolü
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-6in4 Tünelini Yapýlandýr
-; Configure 6in4 Tunnel
+Tüneli Yapýlandýr
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Tünel (dýþ IPv4)
-; Tunnel (outer IPv4)
+Tünel (dýþ %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Uç nokta (iç IPv6)
-; Endpoint (inner IPv6)
+Uç nokta (iç %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Uzak IPv4 (TDST)
-; Remote IPv4 (TDST)
+Uzak %s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Yerel IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Yerel %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -341,4 +341,16 @@ Arabirim Ekle
 MSG_BUTTON_ADD_TUNNEL
 Tünel Ekle
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Tür
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

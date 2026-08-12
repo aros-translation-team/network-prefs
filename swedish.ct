@@ -311,24 +311,24 @@ Adressprotokoll
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-Konfigurera 6in4-tunnel
-; Configure 6in4 Tunnel
+Konfigurera tunnel
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Tunnel (yttre IPv4)
-; Tunnel (outer IPv4)
+Tunnel (yttre %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Slutpunkt (inre IPv6)
-; Endpoint (inner IPv6)
+Slutpunkt (inre %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Fjärr-IPv4 (TDST)
-; Remote IPv4 (TDST)
+Fjärr-%s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Lokal IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Lokal %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -341,4 +341,16 @@ Lägg till gränssnitt
 MSG_BUTTON_ADD_TUNNEL
 Lägg till tunnel
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Typ
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

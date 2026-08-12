@@ -306,24 +306,24 @@ Helbide-protokoloa
 ; Address Protocol
 ;
 MSG_TUNWINDOW_TITLE
-Konfiguratu 6in4 tunela
-; Configure 6in4 Tunnel
+Konfiguratu tunela
+; Configure Tunnel
 ;
 MSG_TUN_OUTER
-Tunela (kanpoko IPv4)
-; Tunnel (outer IPv4)
+Tunela (kanpoko %s)
+; Tunnel (outer %s)
 ;
 MSG_TUN_INNER
-Amaiera-puntua (barneko IPv6)
-; Endpoint (inner IPv6)
+Amaiera-puntua (barneko %s)
+; Endpoint (inner %s)
 ;
 MSG_TUN_REMOTE
-Urruneko IPv4 (TDST)
-; Remote IPv4 (TDST)
+Urruneko %s (TDST)
+; Remote %s (TDST)
 ;
 MSG_TUN_LOCAL
-Bertako IPv4 (TSRC)
-; Local IPv4 (TSRC)
+Bertako %s (TSRC)
+; Local %s (TSRC)
 ;
 MSG_TUN_TTL
 TTL
@@ -336,4 +336,16 @@ Gehitu interfazea
 MSG_BUTTON_ADD_TUNNEL
 Gehitu tunela
 ; Add Tunnel
+;
+MSG_TUN_TYPE
+Mota
+; Type
+;
+MSG_PROTO_IPV4
+IPv4
+; IPv4
+;
+MSG_PROTO_IPV6
+IPv6
+; IPv6
 ;

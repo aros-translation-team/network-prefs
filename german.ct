@@ -80,7 +80,7 @@ Hole Adresse von DHCP
 ;
 MSG_IP_MODE_AUTO
 Automatisch
-; Automatic (zeroconf)
+; Automatic
 ;
 MSG_IP6_MODE_AUTO
 Nur Link-Lokal

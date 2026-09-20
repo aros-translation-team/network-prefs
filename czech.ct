@@ -80,7 +80,7 @@ Automaticky z DHCP
 ;
 MSG_IP_MODE_AUTO
 Automaticky
-; Automatic (zeroconf)
+; Automatic
 ;
 MSG_IP6_MODE_AUTO
 Jen link-local

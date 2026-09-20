@@ -80,7 +80,7 @@ Hent ip adresse via DHCP
 ;
 MSG_IP_MODE_AUTO
 Automatisk
-; Automatic (zeroconf)
+; Automatic
 ;
 MSG_IP6_MODE_AUTO
 Kun link-lokal

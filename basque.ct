@@ -172,7 +172,7 @@ Ados
 ; Ok
 MSG_BUTTON_USE
 _Erabili
-; Use
+; _Use
 ;
 MSG_BUTTON_ADD
 Gehitu
@@ -195,7 +195,7 @@ Itxi
 ; Close
 MSG_BUTTON_CANCEL
 _Deuseztu
-; Cancel
+; _Cancel
 ;
 MSG_ERROR_TITLE
 Akatsa

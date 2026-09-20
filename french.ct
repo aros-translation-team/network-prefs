@@ -158,7 +158,7 @@ Ok
 ;
 MSG_BUTTON_USE
 _Utiliser
-; Use
+; _Use
 ;
 MSG_BUTTON_ADD
 Ajouter
@@ -177,7 +177,7 @@ Fermer
 ;
 MSG_BUTTON_CANCEL
 A_nnuler
-; Cancel
+; _Cancel
 ;
 MSG_ERROR_TITLE
 Erreur

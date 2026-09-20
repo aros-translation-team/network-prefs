@@ -176,7 +176,7 @@ OK
 ;
 MSG_BUTTON_USE
 _Bruk
-; Use
+; _Use
 ;
 MSG_BUTTON_ADD
 Legg til
@@ -199,7 +199,7 @@ Lukk
 ; Close
 MSG_BUTTON_CANCEL
 _Avbryt
-; Cancel
+; _Cancel
 ;
 MSG_ERROR_TITLE
 Feil

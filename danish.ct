@@ -178,7 +178,7 @@ O.k.
 ;
 MSG_BUTTON_USE
 _Brug
-; Use
+; _Use
 ;
 MSG_BUTTON_ADD
 Tilføj
@@ -201,7 +201,7 @@ Luk
 ; Close
 MSG_BUTTON_CANCEL
 _Annuller
-; Cancel
+; _Cancel
 ;
 MSG_ERROR_TITLE
 Fejl

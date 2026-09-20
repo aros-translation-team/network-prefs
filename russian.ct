@@ -304,7 +304,7 @@ MSG_PROTO_LABEL
 ;
 MSG_BUTTON_CANCEL
 Отмена
-; Cancel
+; _Cancel
 ;
 MSG_TUNWINDOW_TITLE
 Настроить туннель

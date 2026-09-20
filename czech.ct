@@ -176,7 +176,7 @@ OK
 ;
 MSG_BUTTON_USE
 _Pou¾ít
-; Use
+; _Use
 ;
 MSG_BUTTON_ADD
 Pøidat
@@ -199,7 +199,7 @@ Zavøít
 ; Close
 MSG_BUTTON_CANCEL
 _Storno
-; Cancel
+; _Cancel
 ;
 MSG_ERROR_TITLE
 Chyba

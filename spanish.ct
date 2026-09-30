@@ -176,7 +176,7 @@ Ok
 ;
 MSG_BUTTON_USE
 _Usar
-; Use
+; _Use
 ;
 MSG_BUTTON_ADD
 Añadir
@@ -199,7 +199,7 @@ Cerrar
 ; Close
 MSG_BUTTON_CANCEL
 _Cancelar
-; Cancel
+; _Cancel
 ;
 MSG_ERROR_TITLE
 Error

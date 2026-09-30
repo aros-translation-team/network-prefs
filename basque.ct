@@ -80,7 +80,7 @@ Esleipen automatikoa (DHCP)
 ;
 MSG_IP_MODE_AUTO
 Automatikoa
-; Automatic (zeroconf)
+; Automatic
 ;
 MSG_IP6_MODE_AUTO
 Soilik lokal-esteka

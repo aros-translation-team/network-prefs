@@ -76,7 +76,7 @@ Adresse obtenue avec DHCP
 ;
 MSG_IP_MODE_AUTO
 Automatique
-; Automatic (zeroconf)
+; Automatic
 ;
 MSG_IP6_MODE_AUTO
 Lien-local uniquement

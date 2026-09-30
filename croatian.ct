@@ -80,7 +80,7 @@ Pribavi adresu od DHCP
 ;
 MSG_IP_MODE_AUTO
 Automatski
-; Automatic (zeroconf)
+; Automatic
 ;
 MSG_IP6_MODE_AUTO
 Samo link-lokalno

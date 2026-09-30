@@ -80,7 +80,7 @@ Automática
 ;
 MSG_IP_MODE_AUTO
 Automático
-; Automatic (zeroconf)
+; Automatic
 ;
 MSG_IP6_MODE_AUTO
 Solo enlace-local

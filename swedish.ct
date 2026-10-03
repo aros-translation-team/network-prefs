@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (10.08.2026)
+## version $VER: networkprefs.catalog 4.2 (03.10.2026)
 ## language svenska
 ## codeset 0
 ;
@@ -353,4 +353,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Anslut när enheten är tillgänglig
+; Connect once available
+;
+MSG_DEFER_HELP
+Om enheten inte finns när nätverket startar\n(hot-plug, trådlös eller Bluetooth-hårdvara), fortsätt försöka\noch starta gränssnittet så snart enheten visas.\nAnnars får du en fråga om vad som ska göras.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.2 (10.08.2026)
+## version $VER: network.catalog 4.3 (03.10.2026)
 ## language czech
 ## codeset 5
 ;
@@ -355,4 +355,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Pøipojit, a¾ bude dostupné
+; Connect once available
+;
+MSG_DEFER_HELP
+Pokud zaøízení pøi startu sítì je¹tì není k dispozici\n(hardware pøipojovaný za provozu, bezdrátový nebo Bluetooth),\nzkou¹et to dál a spustit rozhraní, jakmile se zaøízení objeví.\nJinak budete dotázáni, co dìlat.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

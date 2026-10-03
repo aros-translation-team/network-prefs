@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.3 (10.08.2026)
+## version $VER: network.catalog 4.4 (03.10.2026)
 ## language polski
 ## codeset 5
 ;
@@ -352,4 +352,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Po³±cz, gdy bêdzie dostêpne
+; Connect once available
+;
+MSG_DEFER_HELP
+Je¶li urz±dzenia nie ma jeszcze podczas uruchamiania sieci\n(sprzêt pod³±czany na gor±co, bezprzewodowy lub Bluetooth),\npróbuj dalej i uruchom interfejs, gdy tylko urz±dzenie siê pojawi.\nW przeciwnym razie zostaniesz zapytany, co zrobiæ.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

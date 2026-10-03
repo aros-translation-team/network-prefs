@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (10.08.2026)
+## version $VER: networkprefs.catalog 4.2 (03.10.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -353,4 +353,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Kullanýlabilir olduðunda baðlan
+; Connect once available
+;
+MSG_DEFER_HELP
+Að baþlatýlýrken aygýt henüz yoksa\n(çalýþýrken takýlan, kablosuz veya Bluetooth donaným), denemeye\ndevam et ve aygýt görünür görünmez arayüzü baþlat.\nAksi halde ne yapýlacaðý sorulur.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

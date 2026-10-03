@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (10.08.2026)
+## version $VER: networkprefs.catalog 4.2 (03.10.2026)
 ## language català
 ## codeset 0
 ;
@@ -353,4 +353,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Connectar quan estigui disponible
+; Connect once available
+;
+MSG_DEFER_HELP
+Si el dispositiu encara no hi és quan s'inicia la xarxa\n(maquinari connectat en calent, sense fils o Bluetooth), continuar\nprovant i iniciar la interfície tan bon punt aparegui el dispositiu.\nAltrament, se us preguntarà què fer.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

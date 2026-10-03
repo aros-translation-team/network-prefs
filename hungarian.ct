@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (10.08.2026)
+## version $VER: networkprefs.catalog 4.2 (03.10.2026)
 ## language magyar
 ## codeset 5
 ;
@@ -353,4 +353,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Kapcsolódás, amint elérhetõ
+; Connect once available
+;
+MSG_DEFER_HELP
+Ha az eszköz a hálózat indításakor még nincs jelen\n(menet közben csatlakoztatott, vezeték nélküli vagy Bluetooth hardver),\nfolytassa a próbálkozást, és indítsa az interfészt, amint az eszköz megjelenik.\nEgyébként a rendszer megkérdezi, mit tegyen.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

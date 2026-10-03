@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.1 (10.08.2026)
+## version $VER: network.catalog 4.2 (03.10.2026)
 ## language dansk
 ## codeset 0
 ;
@@ -354,4 +354,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Forbind når enheden er tilgængelig
+; Connect once available
+;
+MSG_DEFER_HELP
+Hvis enheden endnu ikke er der, når netværket starter\n(hot-plug, trådløst eller Bluetooth-hardware), så bliv ved med at\nprøve og start grænsefladen, så snart enheden dukker op.\nEllers bliver du spurgt, hvad der skal gøres.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

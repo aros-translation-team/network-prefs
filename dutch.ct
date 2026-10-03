@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (10.08.2026)
+## version $VER: networkprefs.catalog 4.2 (03.10.2026)
 ## language nederlands
 ## codeset 0
 ;
@@ -353,4 +353,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Verbinden zodra beschikbaar
+; Connect once available
+;
+MSG_DEFER_HELP
+Als het apparaat er nog niet is wanneer het netwerk start\n(hot-plug, draadloze of Bluetooth-hardware), blijf het proberen\nen start de interface zodra het apparaat verschijnt.\nAnders wordt u gevraagd wat u wilt doen.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

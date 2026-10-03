@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (10.08.2026)
+## version $VER: networkprefs.catalog 4.2 (03.10.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -353,4 +353,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Yhdist‰ heti kun laite on k‰ytett‰viss‰
+; Connect once available
+;
+MSG_DEFER_HELP
+Jos laitetta ei viel‰ ole, kun verkko k‰ynnistyy\n(lennossa liitett‰v‰, langaton tai Bluetooth-laitteisto), jatka\nyritt‰mist‰ ja k‰ynnist‰ liit‰nt‰ heti kun laite ilmestyy.\nMuuten sinulta kysyt‰‰n, mit‰ tehd‰‰n.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

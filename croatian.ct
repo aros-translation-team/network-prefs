@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.1 (10.08.2026)
+## version $VER: networkprefs.catalog 4.2 (03.10.2026)
 ## language hrvatski
 ## codeset 5
 ;
@@ -353,4 +353,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Pove¾i kad bude dostupan
+; Connect once available
+;
+MSG_DEFER_HELP
+Ako ureðaj jo¹ nije prisutan kad se mre¾a pokreæe\n(hot-plug, be¾ièni ili Bluetooth hardver), nastavi poku¹avati\ni pokreni suèelje èim se ureðaj pojavi.\nInaèe æete biti upitani ¹to uèiniti.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

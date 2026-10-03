@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.3 (10.08.2026)
+## version $VER: networkprefs.catalog 4.4 (03.10.2026)
 ## language norsk
 ## codeset 0
 ;
@@ -352,4 +352,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Koble til når enheten er tilgjengelig
+; Connect once available
+;
+MSG_DEFER_HELP
+Hvis enheten ennå ikke er der når nettverket starter\n(hot-plug, trådløs eller Bluetooth-maskinvare), fortsett å prøve\nog start grensesnittet så snart enheten dukker opp.\nEllers blir du spurt om hva som skal gjøres.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

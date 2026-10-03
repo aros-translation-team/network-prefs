@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.3 (10.08.2026)
+## version $VER: networkprefs.catalog 4.4 (03.10.2026)
 ## language deutsch
 ## codeset 0
 ;
@@ -352,4 +352,12 @@ IPv4
 MSG_PROTO_IPV6
 IPv6
 ; IPv6
+;
+MSG_DEFER
+Verbinden, sobald verfügbar
+; Connect once available
+;
+MSG_DEFER_HELP
+Wenn das Gerät beim Start des Netzwerks noch nicht vorhanden ist\n(im Betrieb angeschlossene, drahtlose oder Bluetooth-Hardware),\nweiter versuchen und die Schnittstelle starten, sobald das Gerät erscheint.\nAndernfalls werden Sie gefragt, was zu tun ist.
+; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;

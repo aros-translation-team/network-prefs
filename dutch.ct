@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.3 (10.10.2026)
+## version $VER: networkprefs.catalog 4.4 (10.10.2026)
 ## language nederlands
 ## codeset 0
 ;
@@ -401,4 +401,80 @@ Ja
 MSG_SVC_NO
 Nee
 ; No
+;
+MSG_TYPE
+Type
+; Type
+;
+MSG_VOLUME
+Volume
+; Volume
+;
+MSG_SERVICETYPE_ENVOY
+Envoy Bestandssysteem
+; Envoy Filesystem
+;
+MSG_ENVOY_EXPORT
+Export
+; Export
+;
+MSG_ENVOY_SELECT_HOST
+Selecteer...
+; Select...
+;
+MSG_ENVOY_LIST_EXPORTS
+Lijst...
+; List...
+;
+MSG_ENVOY_KEEPPASS_HELP
+Laat leeg om het bewaarde wachtwoord te behouden
+; Leave empty to keep the stored password
+;
+MSG_ENVOY_NOACCOUNTS_HELP
+accounts.library niet beschikbaar - bewaarde login behouden
+; accounts.library not available - stored login preserved
+;
+MSG_ENVOY_ERR_UNKNOWNHOST
+Onbekende host
+; Unknown host
+;
+MSG_ENVOY_ERR_NOSERVICE
+De host voert de Bestandssysteem-dienst niet uit
+; Host does not run the Filesystem service
+;
+MSG_ENVOY_ERR_NOSERVICELIB
+services.library niet beschikbaar
+; services.library not available
+;
+MSG_ENVOY_ERR_TIMEOUT
+Time-out bij verzoek
+; Request timed out
+;
+MSG_ENVOY_ERR_UNREACHABLE
+Host niet bereikbaar
+; Host unreachable
+;
+MSG_ENVOY_ERR_RESOURCES
+Geen resources meer
+; Out of resources
+;
+MSG_ENVOY_ERR_REFUSED
+Verbinding geweigerd
+; Connection refused
+;
+MSG_ENVOY_ERR_OTHER
+Verzoek mislukt
+; Request failed
+;
+MSG_SVC_COL_PRIORITY
+Prioriteit
+; Priority
+;
+MSG_SVC_NAME
+Naam
+; Name
+;
+MSG_SVC_CONFIGURE
+Instellen...
+; Configure...
 ;

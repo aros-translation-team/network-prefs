@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.3 (10.10.2026)
+## version $VER: networkprefs.catalog 4.4 (10.10.2026)
 ## language srpski
 ## codeset 8
 ;
@@ -401,4 +401,80 @@ Da
 MSG_SVC_NO
 Ne
 ; No
+;
+MSG_TYPE
+Tip
+; Type
+;
+MSG_VOLUME
+Volumen
+; Volume
+;
+MSG_SERVICETYPE_ENVOY
+Envoy Sistem datoteka
+; Envoy Filesystem
+;
+MSG_ENVOY_EXPORT
+Izvoz
+; Export
+;
+MSG_ENVOY_SELECT_HOST
+Izaberi...
+; Select...
+;
+MSG_ENVOY_LIST_EXPORTS
+Izlistaj...
+; List...
+;
+MSG_ENVOY_KEEPPASS_HELP
+Ostavite prazno da zadr§ite saŸuvanu lozinku
+; Leave empty to keep the stored password
+;
+MSG_ENVOY_NOACCOUNTS_HELP
+accounts.library nije dostupna - saŸuvana prijava zadr§ana
+; accounts.library not available - stored login preserved
+;
+MSG_ENVOY_ERR_UNKNOWNHOST
+Nepoznat host
+; Unknown host
+;
+MSG_ENVOY_ERR_NOSERVICE
+Host ne pokre†e servis Sistem datoteka
+; Host does not run the Filesystem service
+;
+MSG_ENVOY_ERR_NOSERVICELIB
+services.library nije dostupna
+; services.library not available
+;
+MSG_ENVOY_ERR_TIMEOUT
+Zahtev je istekao
+; Request timed out
+;
+MSG_ENVOY_ERR_UNREACHABLE
+Host nedostupan
+; Host unreachable
+;
+MSG_ENVOY_ERR_RESOURCES
+Nema dovoljno resursa
+; Out of resources
+;
+MSG_ENVOY_ERR_REFUSED
+Veza odbijena
+; Connection refused
+;
+MSG_ENVOY_ERR_OTHER
+Zahtev nije uspeo
+; Request failed
+;
+MSG_SVC_COL_PRIORITY
+Prioritet
+; Priority
+;
+MSG_SVC_NAME
+Ime
+; Name
+;
+MSG_SVC_CONFIGURE
+Konfiguriçi...
+; Configure...
 ;

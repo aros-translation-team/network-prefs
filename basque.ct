@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.4 (10.10.2026)
+## version $VER: networkprefs.catalog 4.5 (10.10.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -396,4 +396,80 @@ Bai
 MSG_SVC_NO
 Ez
 ; No
+;
+MSG_TYPE
+Mota
+; Type
+;
+MSG_VOLUME
+Bolumena
+; Volume
+;
+MSG_SERVICETYPE_ENVOY
+Envoy Fitxategi-sistema
+; Envoy Filesystem
+;
+MSG_ENVOY_EXPORT
+Esportazioa
+; Export
+;
+MSG_ENVOY_SELECT_HOST
+Hautatu...
+; Select...
+;
+MSG_ENVOY_LIST_EXPORTS
+Zerrendatu...
+; List...
+;
+MSG_ENVOY_KEEPPASS_HELP
+Hutsik utzi gordetako gakoa mantentzeko
+; Leave empty to keep the stored password
+;
+MSG_ENVOY_NOACCOUNTS_HELP
+accounts.library ez dago erabilgarri - gordetako saio-hasiera mantendu da
+; accounts.library not available - stored login preserved
+;
+MSG_ENVOY_ERR_UNKNOWNHOST
+Host ezezaguna
+; Unknown host
+;
+MSG_ENVOY_ERR_NOSERVICE
+Host-ak ez du Fitxategi-sistema zerbitzua exekutatzen
+; Host does not run the Filesystem service
+;
+MSG_ENVOY_ERR_NOSERVICELIB
+services.library ez dago erabilgarri
+; services.library not available
+;
+MSG_ENVOY_ERR_TIMEOUT
+Eskaerak denbora-muga gainditu du
+; Request timed out
+;
+MSG_ENVOY_ERR_UNREACHABLE
+Host-a eskuraezina
+; Host unreachable
+;
+MSG_ENVOY_ERR_RESOURCES
+Baliabiderik ez
+; Out of resources
+;
+MSG_ENVOY_ERR_REFUSED
+Konexioa ukatu da
+; Connection refused
+;
+MSG_ENVOY_ERR_OTHER
+Eskaerak huts egin du
+; Request failed
+;
+MSG_SVC_COL_PRIORITY
+Lehentasuna
+; Priority
+;
+MSG_SVC_NAME
+Izena
+; Name
+;
+MSG_SVC_CONFIGURE
+Konfiguratu...
+; Configure...
 ;

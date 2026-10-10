@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.3 (10.10.2026)
+## version $VER: networkprefs.catalog 4.4 (10.10.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -401,4 +401,80 @@ Evet
 MSG_SVC_NO
 Hayýr
 ; No
+;
+MSG_TYPE
+Tür
+; Type
+;
+MSG_VOLUME
+Veri Birimi
+; Volume
+;
+MSG_SERVICETYPE_ENVOY
+Envoy Dosya sistemi
+; Envoy Filesystem
+;
+MSG_ENVOY_EXPORT
+Dýþa aktarým
+; Export
+;
+MSG_ENVOY_SELECT_HOST
+Seç...
+; Select...
+;
+MSG_ENVOY_LIST_EXPORTS
+Listele...
+; List...
+;
+MSG_ENVOY_KEEPPASS_HELP
+Saklanan þifreyi korumak için boþ býrakýn
+; Leave empty to keep the stored password
+;
+MSG_ENVOY_NOACCOUNTS_HELP
+accounts.library kullanýlamýyor - saklanan oturum bilgisi korundu
+; accounts.library not available - stored login preserved
+;
+MSG_ENVOY_ERR_UNKNOWNHOST
+Bilinmeyen makine
+; Unknown host
+;
+MSG_ENVOY_ERR_NOSERVICE
+Makine Dosya sistemi hizmetini çalýþtýrmýyor
+; Host does not run the Filesystem service
+;
+MSG_ENVOY_ERR_NOSERVICELIB
+services.library kullanýlamýyor
+; services.library not available
+;
+MSG_ENVOY_ERR_TIMEOUT
+Ýstek zaman aþýmýna uðradý
+; Request timed out
+;
+MSG_ENVOY_ERR_UNREACHABLE
+Makineye ulaþýlamýyor
+; Host unreachable
+;
+MSG_ENVOY_ERR_RESOURCES
+Kaynaklar tükendi
+; Out of resources
+;
+MSG_ENVOY_ERR_REFUSED
+Baðlantý reddedildi
+; Connection refused
+;
+MSG_ENVOY_ERR_OTHER
+Ýstek baþarýsýz oldu
+; Request failed
+;
+MSG_SVC_COL_PRIORITY
+Öncelik
+; Priority
+;
+MSG_SVC_NAME
+Adý
+; Name
+;
+MSG_SVC_CONFIGURE
+Yapýlandýr...
+; Configure...
 ;

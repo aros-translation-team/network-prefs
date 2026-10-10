@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.4 (03.10.2026)
+## version $VER: network.catalog 4.5 (10.10.2026)
 ## language polski
 ## codeset 5
 ;
@@ -360,4 +360,44 @@ Po³±cz, gdy bêdzie dostêpne
 MSG_DEFER_HELP
 Je¶li urz±dzenia nie ma jeszcze podczas uruchamiania sieci\n(sprzêt pod³±czany na gor±co, bezprzewodowy lub Bluetooth),\npróbuj dalej i uruchom interfejs, gdy tylko urz±dzenie siê pojawi.\nW przeciwnym razie zostaniesz zapytany, co zrobiæ.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Us³ugi
+; Services
+;
+MSG_SVC_GROUP
+Us³ugi sieciowe
+; Network Services
+;
+MSG_SVC_DESC
+W³±cz lub wy³±cz us³ugi sieciowe dzia³aj±ce w tle, uruchamiane przez stos.\nZmiany s± stosowane po wybraniu Zapisz lub U¿yj.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Nazwa
+; Name
+;
+MSG_SVC_COL_ENABLED
+W³±czony
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Przy ponownym wczytaniu
+; On reload
+;
+MSG_SVC_ENABLED
+W³±czony
+; Enabled
+;
+MSG_SVC_PATH
+Program
+; Program
+;
+MSG_SVC_YES
+Tak
+; Yes
+;
+MSG_SVC_NO
+Nie
+; No
 ;

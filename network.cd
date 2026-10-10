@@ -268,3 +268,33 @@ Connect once available
 MSG_DEFER_HELP (//)
 If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
 ;
+MSG_TAB_SERVICES (//)
+Services
+;
+MSG_SVC_GROUP (//)
+Network Services
+;
+MSG_SVC_DESC (//)
+Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME (//)
+Name
+;
+MSG_SVC_COL_ENABLED (//)
+Enabled
+;
+MSG_SVC_COL_POLICY (//)
+On reload
+;
+MSG_SVC_ENABLED (//)
+Enabled
+;
+MSG_SVC_PATH (//)
+Program
+;
+MSG_SVC_YES (//)
+Yes
+;
+MSG_SVC_NO (//)
+No
+;

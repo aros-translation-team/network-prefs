@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.4 (03.10.2026)
+## version $VER: network.catalog 4.5 (10.10.2026)
 ## language italiano
 ## codeset 0
 ;
@@ -360,4 +360,44 @@ Connetti quando disponibile
 MSG_DEFER_HELP
 Se il device non è ancora presente all'avvio della rete\n(hardware collegato a caldo, wireless o Bluetooth), continua a\nprovare e avvia l'interfaccia appena il device compare.\nAltrimenti ti verrà chiesto cosa fare.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Servizi
+; Services
+;
+MSG_SVC_GROUP
+Servizi di rete
+; Network Services
+;
+MSG_SVC_DESC
+Abilita o disabilita i servizi di rete in background avviati dallo stack.\nLe modifiche vengono applicate quando scegli Salva o Usa.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Nome
+; Name
+;
+MSG_SVC_COL_ENABLED
+Abilitato
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Al ricaricamento
+; On reload
+;
+MSG_SVC_ENABLED
+Abilitato
+; Enabled
+;
+MSG_SVC_PATH
+Programma
+; Program
+;
+MSG_SVC_YES
+Si
+; Yes
+;
+MSG_SVC_NO
+No
+; No
 ;

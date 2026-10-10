@@ -1,4 +1,4 @@
-## version $VER: network.catalog 4.3 (03.10.2026)
+## version $VER: network.catalog 4.4 (10.10.2026)
 ## language czech
 ## codeset 5
 ;
@@ -363,4 +363,44 @@ Pøipojit, a¾ bude dostupné
 MSG_DEFER_HELP
 Pokud zaøízení pøi startu sítì je¹tì není k dispozici\n(hardware pøipojovaný za provozu, bezdrátový nebo Bluetooth),\nzkou¹et to dál a spustit rozhraní, jakmile se zaøízení objeví.\nJinak budete dotázáni, co dìlat.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Slu¾by
+; Services
+;
+MSG_SVC_GROUP
+Sí»ové slu¾by
+; Network Services
+;
+MSG_SVC_DESC
+Zapnutí nebo vypnutí sí»ových slu¾eb bì¾ících na pozadí, které spou¹tí sí»ová vrstva.\nZmìny se pou¾ijí pøi stisknutí Ulo¾it nebo Pou¾ít.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Název
+; Name
+;
+MSG_SVC_COL_ENABLED
+Zapnuto
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Pøi naètení
+; On reload
+;
+MSG_SVC_ENABLED
+Zapnuto
+; Enabled
+;
+MSG_SVC_PATH
+Program
+; Program
+;
+MSG_SVC_YES
+Ano
+; Yes
+;
+MSG_SVC_NO
+Ne
+; No
 ;

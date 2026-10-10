@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.2 (03.10.2026)
+## version $VER: networkprefs.catalog 4.3 (10.10.2026)
 ## language srpski
 ## codeset 8
 ;
@@ -361,4 +361,44 @@ Poveßi kada bude dostupan
 MSG_DEFER_HELP
 Ako ure–aj joÁ nije prisutan kada se mreßa pokreÜe\n(hardver sa prikljuüivanjem u radu, beßiüni ili Bluetooth), nastavi\nda pokuÁavaÁ i pokreni interfejs üim se ure–aj pojavi.\nU suprotnom biÜete upitani Áta da se radi.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Servisi
+; Services
+;
+MSG_SVC_GROUP
+Mreßni servisi
+; Network Services
+;
+MSG_SVC_DESC
+Ukljuüite ili iskljuüite mreßne servise koji rade u pozadini.\nPromene se primenjuju kada izaberete Snimi ili Koristi.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Ime
+; Name
+;
+MSG_SVC_COL_ENABLED
+Ukljuüen
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Pri ponovnom uüitavanju
+; On reload
+;
+MSG_SVC_ENABLED
+Ukljuüen
+; Enabled
+;
+MSG_SVC_PATH
+Program
+; Program
+;
+MSG_SVC_YES
+Da
+; Yes
+;
+MSG_SVC_NO
+Ne
+; No
 ;

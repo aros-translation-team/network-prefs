@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.4 (03.10.2026)
+## version $VER: networkprefs.catalog 4.5 (10.10.2026)
 ## language norsk
 ## codeset 0
 ;
@@ -360,4 +360,44 @@ Koble til når enheten er tilgjengelig
 MSG_DEFER_HELP
 Hvis enheten ennå ikke er der når nettverket starter\n(hot-plug, trådløs eller Bluetooth-maskinvare), fortsett å prøve\nog start grensesnittet så snart enheten dukker opp.\nEllers blir du spurt om hva som skal gjøres.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Tjenester
+; Services
+;
+MSG_SVC_GROUP
+Nettverkstjenester
+; Network Services
+;
+MSG_SVC_DESC
+Slå nettverkstjenestene som kjører i bakgrunnen av eller på.\nEndringer tas i bruk når du velger Lagre eller Bruk.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Navn
+; Name
+;
+MSG_SVC_COL_ENABLED
+Aktiv
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Ved ny innlasting
+; On reload
+;
+MSG_SVC_ENABLED
+Aktiv
+; Enabled
+;
+MSG_SVC_PATH
+Program
+; Program
+;
+MSG_SVC_YES
+Ja
+; Yes
+;
+MSG_SVC_NO
+Nei
+; No
 ;

@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.3 (03.10.2026)
+## version $VER: networkprefs.catalog 4.4 (10.10.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -356,4 +356,44 @@ Konektatu erabilgarri dagoenean
 MSG_DEFER_HELP
 Periferikoa oraindik ez badago sarea abiaraztean\n(konexio beroko, haririk gabeko edo Bluetooth hardwarea), saiatzen jarraitu\neta abiarazi interfazea periferikoa agertu bezain laster.\nBestela, zer egin nahi duzun galdetuko zaizu.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Zerbitzuak
+; Services
+;
+MSG_SVC_GROUP
+Sareko zerbitzuak
+; Network Services
+;
+MSG_SVC_DESC
+Gaitu edo desgaitu pilak abiarazten dituen atzeko planoko sare-zerbitzuak.\nAldaketak Gorde edo Erabili sakatzean aplikatzen dira.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Izena
+; Name
+;
+MSG_SVC_COL_ENABLED
+Gaituta
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Birkargatzean
+; On reload
+;
+MSG_SVC_ENABLED
+Gaituta
+; Enabled
+;
+MSG_SVC_PATH
+Programa
+; Program
+;
+MSG_SVC_YES
+Bai
+; Yes
+;
+MSG_SVC_NO
+Ez
+; No
 ;

@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.2 (03.10.2026)
+## version $VER: networkprefs.catalog 4.3 (10.10.2026)
 ## language català
 ## codeset 0
 ;
@@ -361,4 +361,44 @@ Connectar quan estigui disponible
 MSG_DEFER_HELP
 Si el dispositiu encara no hi és quan s'inicia la xarxa\n(maquinari connectat en calent, sense fils o Bluetooth), continuar\nprovant i iniciar la interfície tan bon punt aparegui el dispositiu.\nAltrament, se us preguntarà què fer.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Serveis
+; Services
+;
+MSG_SVC_GROUP
+Serveis de xarxa
+; Network Services
+;
+MSG_SVC_DESC
+Activar o desactivar els serveis de xarxa en segon pla que inicia la pila.\nEls canvis s'apliquen quan premeu Desar o Usar.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Nom
+; Name
+;
+MSG_SVC_COL_ENABLED
+Activar
+; Enabled
+;
+MSG_SVC_COL_POLICY
+En recarregar
+; On reload
+;
+MSG_SVC_ENABLED
+Activar
+; Enabled
+;
+MSG_SVC_PATH
+Programa
+; Program
+;
+MSG_SVC_YES
+Sí
+; Yes
+;
+MSG_SVC_NO
+No
+; No
 ;

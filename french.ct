@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.5 (03.10.2026)
+## version $VER: networkprefs.catalog 4.6 (10.10.2026)
 ## language français
 ## codeset 0
 ;
@@ -335,4 +335,44 @@ Connecter dès que disponible
 MSG_DEFER_HELP
 Si le périphérique n'est pas encore présent au démarrage du réseau\n(matériel connecté à chaud, sans fil ou Bluetooth), continuer d'essayer\net démarrer l'interface dès que le périphérique apparaît.\nSinon, il vous sera demandé quoi faire.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Services
+; Services
+;
+MSG_SVC_GROUP
+Services réseau
+; Network Services
+;
+MSG_SVC_DESC
+Activer ou désactiver les services réseau lancés en arrière-plan par la pile.\nLes modifications sont appliquées quand vous choisissez Sauver ou Utiliser.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Nom
+; Name
+;
+MSG_SVC_COL_ENABLED
+Activé
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Au rechargement
+; On reload
+;
+MSG_SVC_ENABLED
+Activé
+; Enabled
+;
+MSG_SVC_PATH
+Programme
+; Program
+;
+MSG_SVC_YES
+Oui
+; Yes
+;
+MSG_SVC_NO
+Non
+; No
 ;

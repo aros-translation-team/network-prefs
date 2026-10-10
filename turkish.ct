@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.2 (03.10.2026)
+## version $VER: networkprefs.catalog 4.3 (10.10.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -361,4 +361,44 @@ Kullanýlabilir olduðunda baðlan
 MSG_DEFER_HELP
 Að baþlatýlýrken aygýt henüz yoksa\n(çalýþýrken takýlan, kablosuz veya Bluetooth donaným), denemeye\ndevam et ve aygýt görünür görünmez arayüzü baþlat.\nAksi halde ne yapýlacaðý sorulur.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Hizmetler
+; Services
+;
+MSG_SVC_GROUP
+Að Hizmetleri
+; Network Services
+;
+MSG_SVC_DESC
+Yýðýnýn arka planda baþlattýðý að hizmetlerini etkinleþtirin veya devre dýþý býrakýn.\nDeðiþiklikler Kaydet veya Kullan seçildiðinde uygulanýr.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Adý
+; Name
+;
+MSG_SVC_COL_ENABLED
+Etkin
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Yeniden yüklemede
+; On reload
+;
+MSG_SVC_ENABLED
+Etkin
+; Enabled
+;
+MSG_SVC_PATH
+Program
+; Program
+;
+MSG_SVC_YES
+Evet
+; Yes
+;
+MSG_SVC_NO
+Hayýr
+; No
 ;

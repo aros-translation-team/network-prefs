@@ -1,4 +1,4 @@
-## version $VER: networkprefs.catalog 4.2 (03.10.2026)
+## version $VER: networkprefs.catalog 4.3 (10.10.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -361,4 +361,44 @@ Yhdistä heti kun laite on käytettävissä
 MSG_DEFER_HELP
 Jos laitetta ei vielä ole, kun verkko käynnistyy\n(lennossa liitettävä, langaton tai Bluetooth-laitteisto), jatka\nyrittämistä ja käynnistä liitäntä heti kun laite ilmestyy.\nMuuten sinulta kysytään, mitä tehdään.
 ; If the device is not there yet when the network starts\n(hot-plugged, wireless or Bluetooth hardware), keep trying\nand start the interface as soon as the device appears.\nOtherwise you are asked what to do.
+;
+MSG_TAB_SERVICES
+Palvelut
+; Services
+;
+MSG_SVC_GROUP
+Verkkopalvelut
+; Network Services
+;
+MSG_SVC_DESC
+Ota käyttöön tai poista käytöstä taustalla toimivat verkkopalvelut.\nMuutokset otetaan käyttöön kun valitset Tallenna tai Käytä.
+; Enable or disable the background network services the stack\nlaunches. Changes are applied when you Save or Use.
+;
+MSG_SVC_COL_NAME
+Nimi
+; Name
+;
+MSG_SVC_COL_ENABLED
+Päällä
+; Enabled
+;
+MSG_SVC_COL_POLICY
+Uudelleenladattaessa
+; On reload
+;
+MSG_SVC_ENABLED
+Päällä
+; Enabled
+;
+MSG_SVC_PATH
+Ohjelma
+; Program
+;
+MSG_SVC_YES
+Kyllä
+; Yes
+;
+MSG_SVC_NO
+Ei
+; No
 ;
